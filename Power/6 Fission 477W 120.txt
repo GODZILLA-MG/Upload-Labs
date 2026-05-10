@@ -1,0 +1,3811 @@
+[schematic]
+ 
+windows=[{
+"color": 0,
+"container_data": {},
+"custom_icon": "",
+"custom_name": "",
+"filename": "window_group.tscn",
+"name": "group0",
+"position": Vector2(2850, 6700),
+"size": Vector2(2350, 2450),
+"window": "group"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "0ce6e4f671cc",
+"outputs_id": Array[String](["8a8722444449"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner1",
+"position": Vector2(3250, 8000),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "bae022a798e3",
+"outputs_id": Array[String](["bb778430600e"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner0",
+"position": Vector2(3250, 8050),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "196acc4f49aa",
+"outputs_id": Array[String](["2a29ebc92a60"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner2",
+"position": Vector2(3250, 8100),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "194657e28651",
+"outputs_id": Array[String](["9bfc4698ccc6"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner3",
+"position": Vector2(3250, 8150),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "bf862efdcac0",
+"outputs_id": Array[String](["c741fa2c88ba"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner4",
+"position": Vector2(3250, 8200),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "1925015cfbad",
+"outputs_id": Array[String](["e4868227dbef"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner5",
+"position": Vector2(3250, 8250),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Boron": {
+"id": "b61b9a3cc30c",
+"outputs_id": Array[String](["42ecad3cf824"]),
+"resource": "boron",
+"variation": 0
+}
+},
+"filename": "window_boron_miner.tscn",
+"name": "boron_miner1",
+"position": Vector2(3250, 8550),
+"window": "boron_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "e83adff6f087",
+"outputs_id": Array[String](["744cf441940d"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner24",
+"position": Vector2(2850, 7450),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "b30fd5674f30",
+"outputs_id": Array[String](["9eec82ed4c73"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner25",
+"position": Vector2(2850, 7500),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "0697e3089858",
+"outputs_id": Array[String](["9b9bc31bbc0b"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner26",
+"position": Vector2(2850, 7550),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "7a0a037d6313",
+"outputs_id": Array[String](["fce724966307"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner27",
+"position": Vector2(2850, 7600),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "6dab503b13c9",
+"outputs_id": Array[String](["da0378510556"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner28",
+"position": Vector2(2850, 7650),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "f380c9e327cb",
+"outputs_id": Array[String](["6fd8c20d83d7"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner29",
+"position": Vector2(2850, 7700),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "e2a8efe5a297",
+"outputs_id": Array[String](["aff15367fe30"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner30",
+"position": Vector2(2850, 7750),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Boron": {
+"id": "a6022a67a97d",
+"outputs_id": Array[String](["bde2eba66cd8"]),
+"resource": "boron",
+"variation": 0
+}
+},
+"filename": "window_boron_miner.tscn",
+"name": "boron_miner7",
+"position": Vector2(2850, 8550),
+"window": "boron_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "da0378510556",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "6fd8c20d83d7",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "aff15367fe30",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "68e1882bbc68",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "ab955a732f9d",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "fd2b7ca20139",
+"outputs_id": Array[String](["fe17a6ed203b"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_container.tscn",
+"name": "container30",
+"position": Vector2(4050, 7350),
+"window": "container"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "c3d46652a5b3",
+"outputs_id": Array[String](["569562c2558e"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "86271a6b01c5",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine9",
+"position": Vector2(4450, 7550),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Boron": {
+"id": "2deedf4c232c",
+"outputs_id": Array[String](["59f230ea3ce9"]),
+"resource": "boron",
+"variation": 0
+}
+},
+"filename": "window_boron_miner.tscn",
+"name": "boron_miner8",
+"position": Vector2(2850, 8600),
+"window": "boron_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Boron": {
+"id": "0dee89836008",
+"outputs_id": Array[String](["ff307ef0d63a"]),
+"resource": "boron",
+"variation": 0
+}
+},
+"filename": "window_boron_miner.tscn",
+"name": "boron_miner5",
+"position": Vector2(2850, 8650),
+"window": "boron_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Boron": {
+"id": "d34f4b103a87",
+"outputs_id": Array[String](["de3b987bb302"]),
+"resource": "boron",
+"variation": 0
+}
+},
+"filename": "window_boron_miner.tscn",
+"name": "boron_miner2",
+"position": Vector2(3250, 8600),
+"window": "boron_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Boron": {
+"id": "7275f102d51b",
+"outputs_id": Array[String](["a1d11f5ec204"]),
+"resource": "boron",
+"variation": 0
+}
+},
+"filename": "window_boron_miner.tscn",
+"name": "boron_miner3",
+"position": Vector2(3250, 8650),
+"window": "boron_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "cac154b46002",
+"outputs_id": Array[String](["2a4ece020075"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "2085946c82d5",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine10",
+"position": Vector2(4450, 7600),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "bf815107bd80",
+"outputs_id": Array[String](["9e74dcac89e2"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "b1836c28cfa1",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine11",
+"position": Vector2(4450, 7650),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "0da897d87253",
+"outputs_id": Array[String](["b71da38e6795"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner32",
+"position": Vector2(2850, 8000),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "add298fa03dd",
+"outputs_id": Array[String](["0d4d8075b986"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner33",
+"position": Vector2(2850, 8050),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "ecfced280cc9",
+"outputs_id": Array[String](["1ada5f8ce0df"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner34",
+"position": Vector2(2850, 8100),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "6d56d2f802b8",
+"outputs_id": Array[String](["12271d03b4d1"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner35",
+"position": Vector2(2850, 8150),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "34e53b537aad",
+"outputs_id": Array[String](["c6c7d5265ae0"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner36",
+"position": Vector2(2850, 8200),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "a9d431ed72da",
+"outputs_id": Array[String](["a46358a8be53"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner37",
+"position": Vector2(2850, 8250),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "b8f49f12fe30",
+"outputs_id": Array[String](["bd844ceeb96c"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner38",
+"position": Vector2(2850, 8300),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Boron": {
+"id": "579a815e45a6",
+"outputs_id": Array[String](["94e063770dbb"]),
+"resource": "boron",
+"variation": 0
+}
+},
+"filename": "window_boron_miner.tscn",
+"name": "boron_miner9",
+"position": Vector2(3650, 8550),
+"window": "boron_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Boron": {
+"id": "be885b0a000f",
+"outputs_id": Array[String](["4765ffbeef4e"]),
+"resource": "boron",
+"variation": 0
+}
+},
+"filename": "window_boron_miner.tscn",
+"name": "boron_miner10",
+"position": Vector2(3650, 8600),
+"window": "boron_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Boron": {
+"id": "239b55f13d8a",
+"outputs_id": Array[String](["4a25670d54ea"]),
+"resource": "boron",
+"variation": 0
+}
+},
+"filename": "window_boron_miner.tscn",
+"name": "boron_miner11",
+"position": Vector2(3650, 8650),
+"window": "boron_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "4422259715e3",
+"outputs_id": Array[String](["e9452a11ec1b"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner8",
+"position": Vector2(3250, 7450),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "ca19f8aa772b",
+"outputs_id": Array[String](["986a90d95a34"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner9",
+"position": Vector2(3250, 7500),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "787c50399d6b",
+"outputs_id": Array[String](["f4e748c0130d"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner10",
+"position": Vector2(3250, 7550),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "b24eb03f5b3a",
+"outputs_id": Array[String](["3caff0d188c1"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner11",
+"position": Vector2(3250, 7600),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "84e1d88f045d",
+"outputs_id": Array[String](["d15ad1eab164"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner12",
+"position": Vector2(3250, 7650),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "9a2ed87bba24",
+"outputs_id": Array[String](["0c43828381d8"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner13",
+"position": Vector2(3250, 7700),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "987d5fef6b8d",
+"outputs_id": Array[String](["b963c67f1029"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner14",
+"position": Vector2(3250, 7750),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "d26e944ad957",
+"outputs_id": Array[String](["7379a6d35533"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner40",
+"position": Vector2(3650, 7450),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "17b19d086aee",
+"outputs_id": Array[String](["fe89cb37354e"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner41",
+"position": Vector2(3650, 7500),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "ee928a94c3bb",
+"outputs_id": Array[String](["cf5369939bbc"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner42",
+"position": Vector2(3650, 7550),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "a564754aec37",
+"outputs_id": Array[String](["45328b178e1c"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner43",
+"position": Vector2(3650, 7600),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "f6254ff7175f",
+"outputs_id": Array[String](["814acf35440e"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner44",
+"position": Vector2(3650, 7650),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "4fbebe0b9406",
+"outputs_id": Array[String](["204f5e35eb53"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner45",
+"position": Vector2(3650, 7700),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "009f29f9547f",
+"outputs_id": Array[String](["a896025ef1e4"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner46",
+"position": Vector2(3650, 7750),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "fe0ec83aefe2",
+"outputs_id": Array[String](["809d6d0df73d"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner48",
+"position": Vector2(3650, 8000),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "d6592c0cf865",
+"outputs_id": Array[String](["b06b582e5dab"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner49",
+"position": Vector2(3650, 8050),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "588bf19024ba",
+"outputs_id": Array[String](["c4069108e91f"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner50",
+"position": Vector2(3650, 8100),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "cb61475da5b2",
+"outputs_id": Array[String](["626098b6ed6c"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner51",
+"position": Vector2(3650, 8150),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "be3724827371",
+"outputs_id": Array[String](["5f776b3f65c1"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner52",
+"position": Vector2(3650, 8200),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "6e1eadeff322",
+"outputs_id": Array[String](["3cb532c0a4e1"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner53",
+"position": Vector2(3650, 8250),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "cdbaeeb27bc0",
+"outputs_id": Array[String](["da594d48184d"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner54",
+"position": Vector2(3650, 8300),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "2ca27a017452",
+"outputs_id": Array[String](["713e684d6d10"]),
+"resource": "kinetic_energy",
+"variation": 0
+}
+},
+"filename": "window_wind_turbine.tscn",
+"name": "wind_turbine0",
+"position": Vector2(2850, 6750),
+"window": "wind_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "dfa330c3463b",
+"outputs_id": Array[String](["ed7a64d978a3"]),
+"resource": "kinetic_energy",
+"variation": 0
+}
+},
+"filename": "window_wind_turbine.tscn",
+"name": "wind_turbine1",
+"position": Vector2(2850, 6800),
+"window": "wind_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "7f2f31bd74de",
+"outputs_id": Array[String](["77d6dac39410"]),
+"resource": "kinetic_energy",
+"variation": 0
+}
+},
+"filename": "window_wind_turbine.tscn",
+"name": "wind_turbine2",
+"position": Vector2(2850, 6850),
+"window": "wind_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "e0b047c7116f",
+"outputs_id": Array[String](["c690914935da"]),
+"resource": "kinetic_energy",
+"variation": 0
+}
+},
+"filename": "window_wind_turbine.tscn",
+"name": "wind_turbine3",
+"position": Vector2(2850, 6900),
+"window": "wind_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "94de73ed0537",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Water": {
+"id": "1839da3a15c6",
+"outputs_id": Array[String](["569d389fe2bb"]),
+"resource": "water",
+"variation": 0
+}
+},
+"filename": "window_electrical_pump.tscn",
+"name": "electric_pump0",
+"position": Vector2(3250, 6750),
+"window": "electric_pump"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "569d389fe2bb",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "05e1eef4283c",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "d7e4ed7e9355",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "022aa69825bc",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "7b964b4040b5",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "5fdb730fc6a7",
+"outputs_id": Array[String](["d268170d3b15", "6408be07d853"]),
+"resource": "water",
+"variation": 0
+}
+},
+"filename": "window_container.tscn",
+"name": "container11",
+"position": Vector2(4050, 6750),
+"window": "container"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "3fd95aa7427d",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Water": {
+"id": "45e2044278e0",
+"outputs_id": Array[String](["05e1eef4283c"]),
+"resource": "water",
+"variation": 0
+}
+},
+"filename": "window_electrical_pump.tscn",
+"name": "electric_pump1",
+"position": Vector2(3250, 6800),
+"window": "electric_pump"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "b7aa5e2a341e",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Water": {
+"id": "91a092727569",
+"outputs_id": Array[String](["d7e4ed7e9355"]),
+"resource": "water",
+"variation": 0
+}
+},
+"filename": "window_electrical_pump.tscn",
+"name": "electric_pump2",
+"position": Vector2(3250, 6850),
+"window": "electric_pump"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "4c9ffd93ecb3",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Water": {
+"id": "6a15fb998608",
+"outputs_id": Array[String](["022aa69825bc"]),
+"resource": "water",
+"variation": 0
+}
+},
+"filename": "window_electrical_pump.tscn",
+"name": "electric_pump3",
+"position": Vector2(3250, 6900),
+"window": "electric_pump"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "9db1e7d2d2ee",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Water": {
+"id": "e5fb10bdd1b0",
+"outputs_id": Array[String](["80a1693d2bdc"]),
+"resource": "water",
+"variation": 0
+}
+},
+"filename": "window_electrical_pump.tscn",
+"name": "electric_pump6",
+"position": Vector2(3250, 6950),
+"window": "electric_pump"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "a61f508110cd",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Water": {
+"id": "2334bdc1f3a8",
+"outputs_id": Array[String](["d39fa78da351"]),
+"resource": "water",
+"variation": 0
+}
+},
+"filename": "window_electrical_pump.tscn",
+"name": "electric_pump7",
+"position": Vector2(3650, 6750),
+"window": "electric_pump"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "80a1693d2bdc",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "2df69a98cd46",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "d39fa78da351",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "5259cd10f37d",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "442e8381eda7",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "46de9eaed91a",
+"outputs_id": Array[String](["12cc64ba56f7", "ebc07f72bfd5"]),
+"resource": "water",
+"variation": 0
+}
+},
+"filename": "window_container.tscn",
+"name": "container20",
+"position": Vector2(4050, 6800),
+"window": "container"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "52b07646e0bc",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "b21b7fbcd150",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "f3523937c445",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "58f7539631e7",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "c65892de9079",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "aef0bb65a98e",
+"outputs_id": Array[String](["ab7b8f5678e5", "0ac8a3030e01"]),
+"resource": "water",
+"variation": 0
+}
+},
+"filename": "window_container.tscn",
+"name": "container42",
+"position": Vector2(4050, 6850),
+"window": "container"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Materials/Boron": {
+"id": "d100991a21f6",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Materials/Uranium": {
+"id": "b03098502a99",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Materials/Water": {
+"id": "6408be07d853",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Product": {
+"id": "fa60bba52a33",
+"outputs_id": Array[String](["86271a6b01c5", "2085946c82d5", "b1836c28cfa1", "b703e1f0dbfd"]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_fission_reactor.tscn",
+"name": "fission_reactor3",
+"position": Vector2(4450, 6750),
+"stability": 0,
+"window": "fission_reactor"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Materials/Boron": {
+"id": "e9e4646ddaa1",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Materials/Uranium": {
+"id": "9b498d25f4b7",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Materials/Water": {
+"id": "d268170d3b15",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Product": {
+"id": "b14c9b5ef556",
+"outputs_id": Array[String](["948e93c367b2", "0277aee2b00a", "9824f0db4db5", "dcbbfeaf6e4d"]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_fission_reactor.tscn",
+"name": "fission_reactor0",
+"position": Vector2(4450, 6800),
+"stability": 0,
+"window": "fission_reactor"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Materials/Boron": {
+"id": "adc4972278ef",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Materials/Uranium": {
+"id": "8e674457e706",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Materials/Water": {
+"id": "12cc64ba56f7",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Product": {
+"id": "fdd5304536a9",
+"outputs_id": Array[String](["4c01e5d86778", "9306af6ad7c7", "d08fe419942a", "7922e44d19c5"]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_fission_reactor.tscn",
+"name": "fission_reactor1",
+"position": Vector2(4450, 6850),
+"stability": 0,
+"window": "fission_reactor"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Materials/Boron": {
+"id": "3d59f67b5c20",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Materials/Uranium": {
+"id": "3bd31d5eed82",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Materials/Water": {
+"id": "ebc07f72bfd5",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Product": {
+"id": "eb046e60a805",
+"outputs_id": Array[String](["d5407662e291", "6e36dd5fc54d", "e5eabdf2964b", "db8c46c3670d"]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_fission_reactor.tscn",
+"name": "fission_reactor5",
+"position": Vector2(4450, 6900),
+"stability": 0,
+"window": "fission_reactor"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Materials/Boron": {
+"id": "53403885c5b7",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Materials/Uranium": {
+"id": "5f7240fed8fc",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Materials/Water": {
+"id": "ab7b8f5678e5",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Product": {
+"id": "dfaaa4d0bfee",
+"outputs_id": Array[String](["6909fb366f3f", "0f8b91e695e0", "f19306375c38", "c145bc46cc20"]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_fission_reactor.tscn",
+"name": "fission_reactor6",
+"position": Vector2(4450, 6950),
+"stability": 0,
+"window": "fission_reactor"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Materials/Boron": {
+"id": "d6d95a7cca77",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Materials/Uranium": {
+"id": "4582313b2fc7",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Materials/Water": {
+"id": "0ac8a3030e01",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Product": {
+"id": "0db4b487f6ff",
+"outputs_id": Array[String](["f74e7111d640", "7b50e556ff18", "5f3d752ff74a", "e3c0eb4e9fae"]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_fission_reactor.tscn",
+"name": "fission_reactor4",
+"position": Vector2(4450, 7000),
+"stability": 0,
+"window": "fission_reactor"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "744cf441940d",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "9eec82ed4c73",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "9b9bc31bbc0b",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "fce724966307",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "fe17a6ed203b",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "55c9f2b0dd17",
+"outputs_id": Array[String](["b03098502a99"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_container.tscn",
+"name": "container26",
+"position": Vector2(4050, 7400),
+"window": "container"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "d15ad1eab164",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "0c43828381d8",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "b963c67f1029",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "00ce76753d4a",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "01b626cc0a65",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "56decaafb65c",
+"outputs_id": Array[String](["d239e633563e"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_container.tscn",
+"name": "container38",
+"position": Vector2(4050, 7450),
+"window": "container"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "e9452a11ec1b",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "986a90d95a34",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "f4e748c0130d",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "3caff0d188c1",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "d239e633563e",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "634c824d030b",
+"outputs_id": Array[String](["8e674457e706"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_container.tscn",
+"name": "container39",
+"position": Vector2(4050, 7500),
+"window": "container"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "814acf35440e",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "204f5e35eb53",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "a896025ef1e4",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "3593ef3125bb",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "77548e1b87a2",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "faae6ea5eaa7",
+"outputs_id": Array[String](["5da2bce19db8"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_container.tscn",
+"name": "container37",
+"position": Vector2(4050, 7550),
+"window": "container"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "7379a6d35533",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "fe89cb37354e",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "cf5369939bbc",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "45328b178e1c",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "5da2bce19db8",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "4508c65f7ce2",
+"outputs_id": Array[String](["3bd31d5eed82"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_container.tscn",
+"name": "container40",
+"position": Vector2(4050, 7600),
+"window": "container"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "30385f2c4987",
+"outputs_id": Array[String](["68e1882bbc68"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner31",
+"position": Vector2(2850, 7800),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "432a9235d87f",
+"outputs_id": Array[String](["00ce76753d4a"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner15",
+"position": Vector2(3250, 7800),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "e38c07b67d9d",
+"outputs_id": Array[String](["7bc410f6100e"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner39",
+"position": Vector2(2850, 8350),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "05fe1d43b108",
+"outputs_id": Array[String](["60e197f76dea"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner6",
+"position": Vector2(3250, 8300),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "c6c7d5265ae0",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "a46358a8be53",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "bd844ceeb96c",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "7bc410f6100e",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "8fdab91785b9",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "bb879a634da1",
+"outputs_id": Array[String](["21a5405b87df"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_container.tscn",
+"name": "container31",
+"position": Vector2(4050, 7650),
+"window": "container"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "b71da38e6795",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "0d4d8075b986",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "1ada5f8ce0df",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "12271d03b4d1",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "21a5405b87df",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "aa5a50569d31",
+"outputs_id": Array[String](["4582313b2fc7"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_container.tscn",
+"name": "container32",
+"position": Vector2(4050, 7700),
+"window": "container"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "c741fa2c88ba",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "e4868227dbef",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "60e197f76dea",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "5b4b78a44dbb",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "3f198c693900",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "c2bf8976fd1d",
+"outputs_id": Array[String](["1d4b51822c64"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_container.tscn",
+"name": "container3",
+"position": Vector2(4050, 7750),
+"window": "container"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "8a8722444449",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "bb778430600e",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "2a29ebc92a60",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "9bfc4698ccc6",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "1d4b51822c64",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "1e0248e267da",
+"outputs_id": Array[String](["9b498d25f4b7"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_container.tscn",
+"name": "container0",
+"position": Vector2(4050, 7800),
+"window": "container"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "5f776b3f65c1",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "3cb532c0a4e1",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "da594d48184d",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "6ec6b9ff7c6e",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "6b9881359bf9",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "95dea7fdc6cb",
+"outputs_id": Array[String](["d236ad3d861f"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_container.tscn",
+"name": "container45",
+"position": Vector2(4050, 7850),
+"window": "container"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "809d6d0df73d",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "b06b582e5dab",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "c4069108e91f",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "626098b6ed6c",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "d236ad3d861f",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "676d89e1cf1d",
+"outputs_id": Array[String](["5f7240fed8fc"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_container.tscn",
+"name": "container43",
+"position": Vector2(4050, 7900),
+"window": "container"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "bde2eba66cd8",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "59f230ea3ce9",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "ff307ef0d63a",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "ebfd4104e3ea",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "1c6d3634408c",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "d8914e3fdba2",
+"outputs_id": Array[String](["d100991a21f6"]),
+"resource": "boron",
+"variation": 0
+}
+},
+"filename": "window_container.tscn",
+"name": "container27",
+"position": Vector2(4050, 8400),
+"window": "container"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Boron": {
+"id": "50191d9f1bd9",
+"outputs_id": Array[String](["ebfd4104e3ea"]),
+"resource": "boron",
+"variation": 0
+}
+},
+"filename": "window_boron_miner.tscn",
+"name": "boron_miner6",
+"position": Vector2(2850, 8700),
+"window": "boron_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Boron": {
+"id": "1b4a32ba4305",
+"outputs_id": Array[String](["083d6bb14ef6"]),
+"resource": "boron",
+"variation": 0
+}
+},
+"filename": "window_boron_miner.tscn",
+"name": "boron_miner21",
+"position": Vector2(2850, 8750),
+"window": "boron_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Boron": {
+"id": "314024ddd359",
+"outputs_id": Array[String](["bb2e39dd5b2a"]),
+"resource": "boron",
+"variation": 0
+}
+},
+"filename": "window_boron_miner.tscn",
+"name": "boron_miner22",
+"position": Vector2(2850, 8800),
+"window": "boron_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Boron": {
+"id": "47471fda1c4c",
+"outputs_id": Array[String](["6a21795b8c30"]),
+"resource": "boron",
+"variation": 0
+}
+},
+"filename": "window_boron_miner.tscn",
+"name": "boron_miner23",
+"position": Vector2(2850, 8850),
+"window": "boron_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Boron": {
+"id": "ebd81bbf169a",
+"outputs_id": Array[String](["1ddd62be9e35"]),
+"resource": "boron",
+"variation": 0
+}
+},
+"filename": "window_boron_miner.tscn",
+"name": "boron_miner24",
+"position": Vector2(2850, 8900),
+"window": "boron_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Boron": {
+"id": "493a2752174d",
+"outputs_id": Array[String](["13017b96ba3b"]),
+"resource": "boron",
+"variation": 0
+}
+},
+"filename": "window_boron_miner.tscn",
+"name": "boron_miner4",
+"position": Vector2(3250, 8700),
+"window": "boron_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Boron": {
+"id": "dec001fd3236",
+"outputs_id": Array[String](["45ec2e5b24b3"]),
+"resource": "boron",
+"variation": 0
+}
+},
+"filename": "window_boron_miner.tscn",
+"name": "boron_miner13",
+"position": Vector2(3250, 8750),
+"window": "boron_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Boron": {
+"id": "7ed7af89db4e",
+"outputs_id": Array[String](["377fbd468bb1"]),
+"resource": "boron",
+"variation": 0
+}
+},
+"filename": "window_boron_miner.tscn",
+"name": "boron_miner17",
+"position": Vector2(3250, 8800),
+"window": "boron_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Boron": {
+"id": "293261f815d4",
+"outputs_id": Array[String](["8333d7975ca7"]),
+"resource": "boron",
+"variation": 0
+}
+},
+"filename": "window_boron_miner.tscn",
+"name": "boron_miner18",
+"position": Vector2(3250, 8850),
+"window": "boron_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Boron": {
+"id": "be79aa2b2192",
+"outputs_id": Array[String](["eeb08d093024"]),
+"resource": "boron",
+"variation": 0
+}
+},
+"filename": "window_boron_miner.tscn",
+"name": "boron_miner12",
+"position": Vector2(3650, 8700),
+"window": "boron_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Boron": {
+"id": "7ece8d90fac7",
+"outputs_id": Array[String](["6c2f67f0f5c4"]),
+"resource": "boron",
+"variation": 0
+}
+},
+"filename": "window_boron_miner.tscn",
+"name": "boron_miner14",
+"position": Vector2(3650, 8750),
+"window": "boron_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Boron": {
+"id": "eb3d0d3d5e87",
+"outputs_id": Array[String](["8217690bdf45"]),
+"resource": "boron",
+"variation": 0
+}
+},
+"filename": "window_boron_miner.tscn",
+"name": "boron_miner15",
+"position": Vector2(3650, 8800),
+"window": "boron_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Boron": {
+"id": "e7f83180fdcc",
+"outputs_id": Array[String](["5c8c2fa5ca23"]),
+"resource": "boron",
+"variation": 0
+}
+},
+"filename": "window_boron_miner.tscn",
+"name": "boron_miner16",
+"position": Vector2(3650, 8850),
+"window": "boron_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "e4aa15bd6f67",
+"outputs_id": Array[String](["3593ef3125bb"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner47",
+"position": Vector2(3650, 7800),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "93cf316049bf",
+"outputs_id": Array[String](["5b4b78a44dbb"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner7",
+"position": Vector2(3250, 8350),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "875a5f131a6c",
+"outputs_id": Array[String](["6ec6b9ff7c6e"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner55",
+"position": Vector2(3650, 8350),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Boron": {
+"id": "58f26adaf3a9",
+"outputs_id": Array[String](["99560b187ef5"]),
+"resource": "boron",
+"variation": 0
+}
+},
+"filename": "window_boron_miner.tscn",
+"name": "boron_miner19",
+"position": Vector2(3250, 8900),
+"window": "boron_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Energy": {
+"id": "713e684d6d10",
+"outputs_id": Array[String]([]),
+"resource": "kinetic_energy",
+"variation": 0
+},
+"PanelContainer/MainContainer/Power": {
+"id": "56dde3d7e4c5",
+"outputs_id": Array[String](["94de73ed0537", "3fd95aa7427d", "4c9ffd93ecb3"]),
+"resource": "power",
+"variation": 0
+}
+},
+"filename": "window_dynamo.tscn",
+"name": "dynamo0",
+"position": Vector2(2850, 7050),
+"window": "dynamo"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Energy": {
+"id": "ed7a64d978a3",
+"outputs_id": Array[String]([]),
+"resource": "kinetic_energy",
+"variation": 0
+},
+"PanelContainer/MainContainer/Power": {
+"id": "4991d479928c",
+"outputs_id": Array[String](["b7aa5e2a341e", "eca090f52acc", "3f8cb9334fd6"]),
+"resource": "power",
+"variation": 0
+}
+},
+"filename": "window_dynamo.tscn",
+"name": "dynamo1",
+"position": Vector2(2850, 7100),
+"window": "dynamo"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Energy": {
+"id": "77d6dac39410",
+"outputs_id": Array[String]([]),
+"resource": "kinetic_energy",
+"variation": 0
+},
+"PanelContainer/MainContainer/Power": {
+"id": "8b9937a89cb4",
+"outputs_id": Array[String](["d9ce8f082e9f", "9db1e7d2d2ee", "c3667e1dacf5"]),
+"resource": "power",
+"variation": 0
+}
+},
+"filename": "window_dynamo.tscn",
+"name": "dynamo2",
+"position": Vector2(2850, 7150),
+"window": "dynamo"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Energy": {
+"id": "c690914935da",
+"outputs_id": Array[String]([]),
+"resource": "kinetic_energy",
+"variation": 0
+},
+"PanelContainer/MainContainer/Power": {
+"id": "192dd901bd4d",
+"outputs_id": Array[String](["a61f508110cd", "8509392cbb8d", "21fca26a3ce1"]),
+"resource": "power",
+"variation": 0
+}
+},
+"filename": "window_dynamo.tscn",
+"name": "dynamo3",
+"position": Vector2(2850, 7200),
+"window": "dynamo"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Boron": {
+"id": "f10e97360615",
+"outputs_id": Array[String](["b79077db808c"]),
+"resource": "boron",
+"variation": 0
+}
+},
+"filename": "window_boron_miner.tscn",
+"name": "boron_miner20",
+"position": Vector2(3650, 8900),
+"window": "boron_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "d9ce8f082e9f",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Water": {
+"id": "1dea5a99ced3",
+"outputs_id": Array[String](["5259cd10f37d"]),
+"resource": "water",
+"variation": 0
+}
+},
+"filename": "window_electrical_pump.tscn",
+"name": "electric_pump9",
+"position": Vector2(3650, 6800),
+"window": "electric_pump"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "8509392cbb8d",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Water": {
+"id": "d4f7584c8b90",
+"outputs_id": Array[String](["52b07646e0bc"]),
+"resource": "water",
+"variation": 0
+}
+},
+"filename": "window_electrical_pump.tscn",
+"name": "electric_pump10",
+"position": Vector2(3650, 6850),
+"window": "electric_pump"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "21fca26a3ce1",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Water": {
+"id": "0ac683e537ec",
+"outputs_id": Array[String](["b21b7fbcd150"]),
+"resource": "water",
+"variation": 0
+}
+},
+"filename": "window_electrical_pump.tscn",
+"name": "electric_pump11",
+"position": Vector2(3650, 6900),
+"window": "electric_pump"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "eca090f52acc",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Water": {
+"id": "7f49418b6bbb",
+"outputs_id": Array[String](["f3523937c445"]),
+"resource": "water",
+"variation": 0
+}
+},
+"filename": "window_electrical_pump.tscn",
+"name": "electric_pump4",
+"position": Vector2(3650, 6950),
+"window": "electric_pump"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "3f8cb9334fd6",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Water": {
+"id": "c3a5e5d5b169",
+"outputs_id": Array[String](["58f7539631e7"]),
+"resource": "water",
+"variation": 0
+}
+},
+"filename": "window_electrical_pump.tscn",
+"name": "electric_pump5",
+"position": Vector2(3650, 7000),
+"window": "electric_pump"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "c3667e1dacf5",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Water": {
+"id": "1062f96f0aa1",
+"outputs_id": Array[String](["2df69a98cd46"]),
+"resource": "water",
+"variation": 0
+}
+},
+"filename": "window_electrical_pump.tscn",
+"name": "electric_pump8",
+"position": Vector2(3250, 7000),
+"window": "electric_pump"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "45ec2e5b24b3",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "377fbd468bb1",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "8333d7975ca7",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "99560b187ef5",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "151e4b1c682d",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "403dca11f9b6",
+"outputs_id": Array[String](["adc4972278ef"]),
+"resource": "boron",
+"variation": 0
+}
+},
+"filename": "window_container.tscn",
+"name": "container24",
+"position": Vector2(4050, 8450),
+"window": "container"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "083d6bb14ef6",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "bb2e39dd5b2a",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "6a21795b8c30",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "1ddd62be9e35",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "6ae687710b86",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "d879a36e984d",
+"outputs_id": Array[String](["53403885c5b7"]),
+"resource": "boron",
+"variation": 0
+}
+},
+"filename": "window_container.tscn",
+"name": "container44",
+"position": Vector2(4050, 8500),
+"window": "container"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "94e063770dbb",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "4765ffbeef4e",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "4a25670d54ea",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "eeb08d093024",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "141fd9de1650",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "20d8c37862e8",
+"outputs_id": Array[String](["d6d95a7cca77"]),
+"resource": "boron",
+"variation": 0
+}
+},
+"filename": "window_container.tscn",
+"name": "container34",
+"position": Vector2(4050, 8550),
+"window": "container"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "42ecad3cf824",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "de3b987bb302",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "a1d11f5ec204",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "13017b96ba3b",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "012013221a9c",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "b5ee71824173",
+"outputs_id": Array[String](["e9e4646ddaa1"]),
+"resource": "boron",
+"variation": 0
+}
+},
+"filename": "window_container.tscn",
+"name": "container6",
+"position": Vector2(4050, 8600),
+"window": "container"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "6c2f67f0f5c4",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "8217690bdf45",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "5c8c2fa5ca23",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "b79077db808c",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "a50fdcbf181f",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "8baa3257221f",
+"outputs_id": Array[String](["3d59f67b5c20"]),
+"resource": "boron",
+"variation": 0
+}
+},
+"filename": "window_container.tscn",
+"name": "container41",
+"position": Vector2(4050, 8650),
+"window": "container"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "2791b231f7bb",
+"outputs_id": Array[String](["749a3940cfca"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "b703e1f0dbfd",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine12",
+"position": Vector2(4450, 7700),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "64de15e4eb32",
+"outputs_id": Array[String](["802369a3afba"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "4c01e5d86778",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine7",
+"position": Vector2(4450, 7750),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "38b16c89df23",
+"outputs_id": Array[String](["1ba469c6e011"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "9306af6ad7c7",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine8",
+"position": Vector2(4450, 7800),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "3a6ca8dcb31a",
+"outputs_id": Array[String](["aac4e639898f"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "d08fe419942a",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine18",
+"position": Vector2(4450, 7850),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "2ed29f04db54",
+"outputs_id": Array[String](["ef96ede134a8"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "7922e44d19c5",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine19",
+"position": Vector2(4450, 7900),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "42163c5ffe42",
+"outputs_id": Array[String](["4951376f202c"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "d5407662e291",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine17",
+"position": Vector2(4450, 7950),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "0d671e70affd",
+"outputs_id": Array[String](["16f17f6a3f7e"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "6e36dd5fc54d",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine20",
+"position": Vector2(4450, 8000),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "cf9670701018",
+"outputs_id": Array[String](["df008c5e1a40"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "e5eabdf2964b",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine21",
+"position": Vector2(4450, 8050),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "a4dac317eb3f",
+"outputs_id": Array[String](["5834566783e5"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "db8c46c3670d",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine22",
+"position": Vector2(4450, 8100),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "2142ddb9af48",
+"outputs_id": Array[String](["53fbc35a329b"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "6909fb366f3f",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine23",
+"position": Vector2(4450, 8150),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "2bf8ad0b6c90",
+"outputs_id": Array[String](["105b97ec8364"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "0f8b91e695e0",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine24",
+"position": Vector2(4450, 8200),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "1f0ab4e17b3f",
+"outputs_id": Array[String](["36008ff7c784"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "f19306375c38",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine25",
+"position": Vector2(4450, 8250),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "14072ac76f51",
+"outputs_id": Array[String](["a673817e6f3b"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "c145bc46cc20",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine26",
+"position": Vector2(4450, 8300),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "e6977cfd126b",
+"outputs_id": Array[String](["c5884fc9371d"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "f74e7111d640",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine13",
+"position": Vector2(4450, 8350),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "ddcd18b0f4be",
+"outputs_id": Array[String](["4bb50853f3e8"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "7b50e556ff18",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine14",
+"position": Vector2(4450, 8400),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "af7eaa256f92",
+"outputs_id": Array[String](["725b0a67f178"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "5f3d752ff74a",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine15",
+"position": Vector2(4450, 8450),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "994c3421886c",
+"outputs_id": Array[String](["7c278f581863"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "e3c0eb4e9fae",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine16",
+"position": Vector2(4450, 8500),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "32006fa4f157",
+"outputs_id": Array[String](["b0b492af0023"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "948e93c367b2",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine3",
+"position": Vector2(4450, 8550),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "ea3e1f10280f",
+"outputs_id": Array[String](["833e277fd245"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "0277aee2b00a",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine4",
+"position": Vector2(4450, 8600),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "513fe0aab312",
+"outputs_id": Array[String](["4a6cfbb3f2ba"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "9824f0db4db5",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine5",
+"position": Vector2(4450, 8650),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "5fb903941397",
+"outputs_id": Array[String](["3154a85a028f"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "dcbbfeaf6e4d",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine6",
+"position": Vector2(4450, 8700),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "802369a3afba",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "1ba469c6e011",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "aac4e639898f",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "ef96ede134a8",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "9c52762866ae",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "a949f580be8e",
+"outputs_id": Array[String](["d23fe40edcf4"]),
+"resource": "power",
+"variation": 0
+}
+},
+"filename": "window_power_line.tscn",
+"name": "power_line5",
+"position": Vector2(4850, 6750),
+"window": "power_line"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "4951376f202c",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "16f17f6a3f7e",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "df008c5e1a40",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "5834566783e5",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "a5df5cddedb8",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "f31480d5deb6",
+"outputs_id": Array[String](["900783fc0cf6"]),
+"resource": "power",
+"variation": 0
+}
+},
+"filename": "window_power_line.tscn",
+"name": "power_line3",
+"position": Vector2(4850, 6800),
+"window": "power_line"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "53fbc35a329b",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "105b97ec8364",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "36008ff7c784",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "a673817e6f3b",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "c24e69db94a5",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "643e9f9683e0",
+"outputs_id": Array[String](["7f676ae61e6d"]),
+"resource": "power",
+"variation": 0
+}
+},
+"filename": "window_power_line.tscn",
+"name": "power_line6",
+"position": Vector2(4850, 6850),
+"window": "power_line"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "b0b492af0023",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "833e277fd245",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "4a6cfbb3f2ba",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "3154a85a028f",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "8619a2005803",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "ad6668366dc8",
+"outputs_id": Array[String](["9ead24c87036"]),
+"resource": "power",
+"variation": 0
+}
+},
+"filename": "window_power_line.tscn",
+"name": "power_line0",
+"position": Vector2(4850, 6900),
+"window": "power_line"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "c5884fc9371d",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "4bb50853f3e8",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "725b0a67f178",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "7c278f581863",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "83fef181b51d",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "a66a311c0ab6",
+"outputs_id": Array[String](["88ca8d10c0ab"]),
+"resource": "power",
+"variation": 0
+}
+},
+"filename": "window_power_line.tscn",
+"name": "power_line2",
+"position": Vector2(4850, 6950),
+"window": "power_line"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "569562c2558e",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "2a4ece020075",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "9e74dcac89e2",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "749a3940cfca",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "d895013bfcbc",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "49c1b8432766",
+"outputs_id": Array[String](["a6fe322b1c9d"]),
+"resource": "power",
+"variation": 0
+}
+},
+"filename": "window_power_line.tscn",
+"name": "power_line1",
+"position": Vector2(4850, 7000),
+"window": "power_line"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "d23fe40edcf4",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "900783fc0cf6",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "7f676ae61e6d",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "8f3dcdbe1f62",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "5ab993cd49c3",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "3b10cecad68b",
+"outputs_id": Array[String](["4d9429b98474"]),
+"resource": "power",
+"variation": 0
+}
+},
+"filename": "window_power_line.tscn",
+"name": "power_line8",
+"position": Vector2(4850, 7500),
+"window": "power_line"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "9ead24c87036",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "a6fe322b1c9d",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "88ca8d10c0ab",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "17dbc0a02fb8",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "9dbe8b9f726b",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "f4f096114baf",
+"outputs_id": Array[String](["358a7f8ce7bb"]),
+"resource": "power",
+"variation": 0
+}
+},
+"filename": "window_power_line.tscn",
+"name": "power_line4",
+"position": Vector2(4850, 7550),
+"window": "power_line"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Boost": {
+"id": "0116f4464ee6",
+"outputs_id": Array[String]([]),
+"resource": "boost_work",
+"variation": 0
+},
+"PanelContainer/MainContainer/Power": {
+"id": "43f04d112965",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+}
+},
+"filename": "window_empowerer.tscn",
+"name": "empowerer0",
+"position": Vector2(4850, 8400),
+"window": "empowerer"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "358a7f8ce7bb",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "4d9429b98474",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "1c758d3f2cce",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "96798087e739",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "65e4df53b405",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "46206b12130f",
+"outputs_id": Array[String](["43f04d112965"]),
+"resource": "power",
+"variation": 0
+}
+},
+"filename": "window_power_line.tscn",
+"name": "power_line7",
+"position": Vector2(4850, 8000),
+"window": "power_line"
+}]
+connectors={
+"00ce76753d4a": {
+"custom_points": Array[Vector2]([])
+},
+"022aa69825bc": {
+"custom_points": Array[Vector2]([])
+},
+"0277aee2b00a": {
+"custom_points": Array[Vector2]([])
+},
+"05e1eef4283c": {
+"custom_points": Array[Vector2]([])
+},
+"083d6bb14ef6": {
+"custom_points": Array[Vector2]([])
+},
+"0ac8a3030e01": {
+"custom_points": Array[Vector2]([])
+},
+"0c43828381d8": {
+"custom_points": Array[Vector2]([])
+},
+"0d4d8075b986": {
+"custom_points": Array[Vector2]([])
+},
+"0f8b91e695e0": {
+"custom_points": Array[Vector2]([])
+},
+"105b97ec8364": {
+"custom_points": Array[Vector2]([])
+},
+"12271d03b4d1": {
+"custom_points": Array[Vector2]([])
+},
+"12cc64ba56f7": {
+"custom_points": Array[Vector2]([])
+},
+"13017b96ba3b": {
+"custom_points": Array[Vector2]([])
+},
+"16f17f6a3f7e": {
+"custom_points": Array[Vector2]([])
+},
+"1ada5f8ce0df": {
+"custom_points": Array[Vector2]([])
+},
+"1ba469c6e011": {
+"custom_points": Array[Vector2]([])
+},
+"1d4b51822c64": {
+"custom_points": Array[Vector2]([])
+},
+"1ddd62be9e35": {
+"custom_points": Array[Vector2]([])
+},
+"204f5e35eb53": {
+"custom_points": Array[Vector2]([])
+},
+"2085946c82d5": {
+"custom_points": Array[Vector2]([])
+},
+"21a5405b87df": {
+"custom_points": Array[Vector2]([])
+},
+"21fca26a3ce1": {
+"custom_points": Array[Vector2]([])
+},
+"2a29ebc92a60": {
+"custom_points": Array[Vector2]([])
+},
+"2a4ece020075": {
+"custom_points": Array[Vector2]([])
+},
+"2df69a98cd46": {
+"custom_points": Array[Vector2]([])
+},
+"3154a85a028f": {
+"custom_points": Array[Vector2]([])
+},
+"358a7f8ce7bb": {
+"custom_points": Array[Vector2]([])
+},
+"3593ef3125bb": {
+"custom_points": Array[Vector2]([])
+},
+"36008ff7c784": {
+"custom_points": Array[Vector2]([])
+},
+"377fbd468bb1": {
+"custom_points": Array[Vector2]([])
+},
+"3bd31d5eed82": {
+"custom_points": Array[Vector2]([])
+},
+"3caff0d188c1": {
+"custom_points": Array[Vector2]([])
+},
+"3cb532c0a4e1": {
+"custom_points": Array[Vector2]([])
+},
+"3d59f67b5c20": {
+"custom_points": Array[Vector2]([])
+},
+"3f8cb9334fd6": {
+"custom_points": Array[Vector2]([])
+},
+"3fd95aa7427d": {
+"custom_points": Array[Vector2]([])
+},
+"42ecad3cf824": {
+"custom_points": Array[Vector2]([])
+},
+"43f04d112965": {
+"custom_points": Array[Vector2]([])
+},
+"45328b178e1c": {
+"custom_points": Array[Vector2]([])
+},
+"4582313b2fc7": {
+"custom_points": Array[Vector2]([])
+},
+"45ec2e5b24b3": {
+"custom_points": Array[Vector2]([])
+},
+"4765ffbeef4e": {
+"custom_points": Array[Vector2]([])
+},
+"4951376f202c": {
+"custom_points": Array[Vector2]([])
+},
+"4a25670d54ea": {
+"custom_points": Array[Vector2]([])
+},
+"4a6cfbb3f2ba": {
+"custom_points": Array[Vector2]([])
+},
+"4bb50853f3e8": {
+"custom_points": Array[Vector2]([])
+},
+"4c01e5d86778": {
+"custom_points": Array[Vector2]([])
+},
+"4c9ffd93ecb3": {
+"custom_points": Array[Vector2]([])
+},
+"4d9429b98474": {
+"custom_points": Array[Vector2]([])
+},
+"5259cd10f37d": {
+"custom_points": Array[Vector2]([])
+},
+"52b07646e0bc": {
+"custom_points": Array[Vector2]([])
+},
+"53403885c5b7": {
+"custom_points": Array[Vector2]([])
+},
+"53fbc35a329b": {
+"custom_points": Array[Vector2]([])
+},
+"569562c2558e": {
+"custom_points": Array[Vector2]([])
+},
+"569d389fe2bb": {
+"custom_points": Array[Vector2]([])
+},
+"5834566783e5": {
+"custom_points": Array[Vector2]([])
+},
+"58f7539631e7": {
+"custom_points": Array[Vector2]([])
+},
+"59f230ea3ce9": {
+"custom_points": Array[Vector2]([])
+},
+"5b4b78a44dbb": {
+"custom_points": Array[Vector2]([])
+},
+"5c8c2fa5ca23": {
+"custom_points": Array[Vector2]([])
+},
+"5da2bce19db8": {
+"custom_points": Array[Vector2]([])
+},
+"5f3d752ff74a": {
+"custom_points": Array[Vector2]([])
+},
+"5f7240fed8fc": {
+"custom_points": Array[Vector2]([])
+},
+"5f776b3f65c1": {
+"custom_points": Array[Vector2]([])
+},
+"60e197f76dea": {
+"custom_points": Array[Vector2]([])
+},
+"626098b6ed6c": {
+"custom_points": Array[Vector2]([])
+},
+"6408be07d853": {
+"custom_points": Array[Vector2]([])
+},
+"68e1882bbc68": {
+"custom_points": Array[Vector2]([])
+},
+"6909fb366f3f": {
+"custom_points": Array[Vector2]([])
+},
+"6a21795b8c30": {
+"custom_points": Array[Vector2]([])
+},
+"6c2f67f0f5c4": {
+"custom_points": Array[Vector2]([])
+},
+"6e36dd5fc54d": {
+"custom_points": Array[Vector2]([])
+},
+"6ec6b9ff7c6e": {
+"custom_points": Array[Vector2]([])
+},
+"6fd8c20d83d7": {
+"custom_points": Array[Vector2]([])
+},
+"713e684d6d10": {
+"custom_points": Array[Vector2]([])
+},
+"725b0a67f178": {
+"custom_points": Array[Vector2]([])
+},
+"7379a6d35533": {
+"custom_points": Array[Vector2]([])
+},
+"744cf441940d": {
+"custom_points": Array[Vector2]([])
+},
+"749a3940cfca": {
+"custom_points": Array[Vector2]([])
+},
+"77d6dac39410": {
+"custom_points": Array[Vector2]([])
+},
+"7922e44d19c5": {
+"custom_points": Array[Vector2]([])
+},
+"7b50e556ff18": {
+"custom_points": Array[Vector2]([])
+},
+"7bc410f6100e": {
+"custom_points": Array[Vector2]([])
+},
+"7c278f581863": {
+"custom_points": Array[Vector2]([])
+},
+"7f676ae61e6d": {
+"custom_points": Array[Vector2]([])
+},
+"802369a3afba": {
+"custom_points": Array[Vector2]([])
+},
+"809d6d0df73d": {
+"custom_points": Array[Vector2]([])
+},
+"80a1693d2bdc": {
+"custom_points": Array[Vector2]([])
+},
+"814acf35440e": {
+"custom_points": Array[Vector2]([])
+},
+"8217690bdf45": {
+"custom_points": Array[Vector2]([])
+},
+"8333d7975ca7": {
+"custom_points": Array[Vector2]([])
+},
+"833e277fd245": {
+"custom_points": Array[Vector2]([])
+},
+"8509392cbb8d": {
+"custom_points": Array[Vector2]([])
+},
+"86271a6b01c5": {
+"custom_points": Array[Vector2]([])
+},
+"88ca8d10c0ab": {
+"custom_points": Array[Vector2]([])
+},
+"8a8722444449": {
+"custom_points": Array[Vector2]([])
+},
+"8e674457e706": {
+"custom_points": Array[Vector2]([])
+},
+"900783fc0cf6": {
+"custom_points": Array[Vector2]([])
+},
+"9306af6ad7c7": {
+"custom_points": Array[Vector2]([])
+},
+"948e93c367b2": {
+"custom_points": Array[Vector2]([])
+},
+"94de73ed0537": {
+"custom_points": Array[Vector2]([])
+},
+"94e063770dbb": {
+"custom_points": Array[Vector2]([])
+},
+"9824f0db4db5": {
+"custom_points": Array[Vector2]([])
+},
+"986a90d95a34": {
+"custom_points": Array[Vector2]([])
+},
+"99560b187ef5": {
+"custom_points": Array[Vector2]([])
+},
+"9b498d25f4b7": {
+"custom_points": Array[Vector2]([])
+},
+"9b9bc31bbc0b": {
+"custom_points": Array[Vector2]([])
+},
+"9bfc4698ccc6": {
+"custom_points": Array[Vector2]([])
+},
+"9db1e7d2d2ee": {
+"custom_points": Array[Vector2]([])
+},
+"9e74dcac89e2": {
+"custom_points": Array[Vector2]([])
+},
+"9ead24c87036": {
+"custom_points": Array[Vector2]([])
+},
+"9eec82ed4c73": {
+"custom_points": Array[Vector2]([])
+},
+"a1d11f5ec204": {
+"custom_points": Array[Vector2]([])
+},
+"a46358a8be53": {
+"custom_points": Array[Vector2]([])
+},
+"a61f508110cd": {
+"custom_points": Array[Vector2]([])
+},
+"a673817e6f3b": {
+"custom_points": Array[Vector2]([])
+},
+"a6fe322b1c9d": {
+"custom_points": Array[Vector2]([])
+},
+"a896025ef1e4": {
+"custom_points": Array[Vector2]([])
+},
+"aac4e639898f": {
+"custom_points": Array[Vector2]([])
+},
+"ab7b8f5678e5": {
+"custom_points": Array[Vector2]([])
+},
+"adc4972278ef": {
+"custom_points": Array[Vector2]([])
+},
+"aff15367fe30": {
+"custom_points": Array[Vector2]([])
+},
+"b03098502a99": {
+"custom_points": Array[Vector2]([])
+},
+"b06b582e5dab": {
+"custom_points": Array[Vector2]([])
+},
+"b0b492af0023": {
+"custom_points": Array[Vector2]([])
+},
+"b1836c28cfa1": {
+"custom_points": Array[Vector2]([])
+},
+"b21b7fbcd150": {
+"custom_points": Array[Vector2]([])
+},
+"b703e1f0dbfd": {
+"custom_points": Array[Vector2]([])
+},
+"b71da38e6795": {
+"custom_points": Array[Vector2]([])
+},
+"b79077db808c": {
+"custom_points": Array[Vector2]([])
+},
+"b7aa5e2a341e": {
+"custom_points": Array[Vector2]([])
+},
+"b963c67f1029": {
+"custom_points": Array[Vector2]([])
+},
+"bb2e39dd5b2a": {
+"custom_points": Array[Vector2]([])
+},
+"bb778430600e": {
+"custom_points": Array[Vector2]([])
+},
+"bd844ceeb96c": {
+"custom_points": Array[Vector2]([])
+},
+"bde2eba66cd8": {
+"custom_points": Array[Vector2]([])
+},
+"c145bc46cc20": {
+"custom_points": Array[Vector2]([])
+},
+"c3667e1dacf5": {
+"custom_points": Array[Vector2]([])
+},
+"c4069108e91f": {
+"custom_points": Array[Vector2]([])
+},
+"c5884fc9371d": {
+"custom_points": Array[Vector2]([])
+},
+"c690914935da": {
+"custom_points": Array[Vector2]([])
+},
+"c6c7d5265ae0": {
+"custom_points": Array[Vector2]([])
+},
+"c741fa2c88ba": {
+"custom_points": Array[Vector2]([])
+},
+"cf5369939bbc": {
+"custom_points": Array[Vector2]([])
+},
+"d08fe419942a": {
+"custom_points": Array[Vector2]([])
+},
+"d100991a21f6": {
+"custom_points": Array[Vector2]([])
+},
+"d15ad1eab164": {
+"custom_points": Array[Vector2]([])
+},
+"d236ad3d861f": {
+"custom_points": Array[Vector2]([])
+},
+"d239e633563e": {
+"custom_points": Array[Vector2]([])
+},
+"d23fe40edcf4": {
+"custom_points": Array[Vector2]([])
+},
+"d268170d3b15": {
+"custom_points": Array[Vector2]([])
+},
+"d39fa78da351": {
+"custom_points": Array[Vector2]([])
+},
+"d5407662e291": {
+"custom_points": Array[Vector2]([])
+},
+"d6d95a7cca77": {
+"custom_points": Array[Vector2]([])
+},
+"d7e4ed7e9355": {
+"custom_points": Array[Vector2]([])
+},
+"d9ce8f082e9f": {
+"custom_points": Array[Vector2]([])
+},
+"da0378510556": {
+"custom_points": Array[Vector2]([])
+},
+"da594d48184d": {
+"custom_points": Array[Vector2]([Vector2(3400, 8900)])
+},
+"db8c46c3670d": {
+"custom_points": Array[Vector2]([])
+},
+"dcbbfeaf6e4d": {
+"custom_points": Array[Vector2]([])
+},
+"de3b987bb302": {
+"custom_points": Array[Vector2]([])
+},
+"df008c5e1a40": {
+"custom_points": Array[Vector2]([])
+},
+"e3c0eb4e9fae": {
+"custom_points": Array[Vector2]([])
+},
+"e4868227dbef": {
+"custom_points": Array[Vector2]([])
+},
+"e5eabdf2964b": {
+"custom_points": Array[Vector2]([])
+},
+"e9452a11ec1b": {
+"custom_points": Array[Vector2]([])
+},
+"e9e4646ddaa1": {
+"custom_points": Array[Vector2]([])
+},
+"ebc07f72bfd5": {
+"custom_points": Array[Vector2]([])
+},
+"ebfd4104e3ea": {
+"custom_points": Array[Vector2]([])
+},
+"eca090f52acc": {
+"custom_points": Array[Vector2]([])
+},
+"ed7a64d978a3": {
+"custom_points": Array[Vector2]([])
+},
+"eeb08d093024": {
+"custom_points": Array[Vector2]([])
+},
+"ef96ede134a8": {
+"custom_points": Array[Vector2]([])
+},
+"f19306375c38": {
+"custom_points": Array[Vector2]([])
+},
+"f3523937c445": {
+"custom_points": Array[Vector2]([])
+},
+"f4e748c0130d": {
+"custom_points": Array[Vector2]([])
+},
+"f74e7111d640": {
+"custom_points": Array[Vector2]([])
+},
+"fce724966307": {
+"custom_points": Array[Vector2]([])
+},
+"fe17a6ed203b": {
+"custom_points": Array[Vector2]([])
+},
+"fe89cb37354e": {
+"custom_points": Array[Vector2]([])
+},
+"ff307ef0d63a": {
+"custom_points": Array[Vector2]([])
+}
+}
+rect=Rect2(2850, 6700, 2350, 2450)
+icon="blueprint"
+version=3
+ 

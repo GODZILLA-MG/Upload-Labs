@@ -1,0 +1,3060 @@
+[schematic]
+ 
+windows=[{
+"color": 0,
+"container_data": {},
+"custom_icon": "",
+"custom_name": "Full Fusion",
+"filename": "window_group.tscn",
+"name": "group13",
+"position": Vector2(4000, 7700),
+"size": Vector2(3950, 2200),
+"window": "group"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Materials/Lithium": {
+"id": "4845090ee9e2",
+"outputs_id": Array[String]([]),
+"resource": "lithium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Power": {
+"id": "e942d9f28d82",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Product": {
+"id": "ab70d6d1ff5e",
+"outputs_id": Array[String](["1289063950e3"]),
+"resource": "tritium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Speed": {
+"id": "e9ef6e3c5dec",
+"outputs_id": Array[String]([]),
+"resource": "work_speed",
+"variation": 0
+}
+},
+"filename": "window_neutron_activator.tscn",
+"name": "neutron_activator3",
+"position": Vector2(5450, 7800),
+"window": "neutron_activator"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Materials/Water": {
+"id": "24f931d8f74c",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Product": {
+"id": "14cb80d3c957",
+"outputs_id": Array[String](["a1b9f2f67867", "b328b4acf058", "d663e8e15af7", "4845090ee9e2"]),
+"resource": "lithium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Speed": {
+"id": "9a45ba783bf8",
+"outputs_id": Array[String]([]),
+"resource": "work_speed",
+"variation": 0
+}
+},
+"filename": "window_evaporation_tank.tscn",
+"name": "evaporation_tank0",
+"position": Vector2(5100, 7800),
+"window": "evaporation_tank"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Materials/HeavyWater": {
+"id": "b4a3a56e6476",
+"outputs_id": Array[String]([]),
+"resource": "heavy_water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Power": {
+"id": "139f2ba2ab0d",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Product": {
+"id": "873544946cea",
+"outputs_id": Array[String](["aee0367f4a68"]),
+"resource": "deuterium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Speed": {
+"id": "89b5329d1202",
+"outputs_id": Array[String]([]),
+"resource": "work_speed",
+"variation": 0
+}
+},
+"filename": "window_electrolyzer.tscn",
+"name": "electrolyzer3",
+"position": Vector2(7200, 7800),
+"window": "electrolyzer"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Materials/HeavyWater": {
+"id": "d86b4c51e3e0",
+"outputs_id": Array[String]([]),
+"resource": "heavy_water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Power": {
+"id": "ef093a30fe4b",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Product": {
+"id": "28a2fbc1cb4d",
+"outputs_id": Array[String](["9b3360719075"]),
+"resource": "deuterium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Speed": {
+"id": "59d661d609a9",
+"outputs_id": Array[String]([]),
+"resource": "work_speed",
+"variation": 0
+}
+},
+"filename": "window_electrolyzer.tscn",
+"name": "electrolyzer2",
+"position": Vector2(7200, 7850),
+"window": "electrolyzer"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Materials/HeavyWater": {
+"id": "5e03bf9dd036",
+"outputs_id": Array[String]([]),
+"resource": "heavy_water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Power": {
+"id": "85c052356527",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Product": {
+"id": "3acc6450b2fc",
+"outputs_id": Array[String](["d67cec18d11e"]),
+"resource": "deuterium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Speed": {
+"id": "b1311589ad96",
+"outputs_id": Array[String]([]),
+"resource": "work_speed",
+"variation": 0
+}
+},
+"filename": "window_electrolyzer.tscn",
+"name": "electrolyzer1",
+"position": Vector2(7200, 7900),
+"window": "electrolyzer"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "ecd15430db7e",
+"outputs_id": Array[String]([]),
+"resource": "tritium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "1aa74b126890",
+"outputs_id": Array[String]([]),
+"resource": "tritium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "1289063950e3",
+"outputs_id": Array[String]([]),
+"resource": "tritium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "c4846fae2bf1",
+"outputs_id": Array[String]([]),
+"resource": "tritium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "eea6f8a563c3",
+"outputs_id": Array[String]([]),
+"resource": "tritium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "5c9705fc6efe",
+"outputs_id": Array[String](["4ba30df87d17"]),
+"resource": "tritium",
+"variation": 0
+}
+},
+"filename": "window_container.tscn",
+"name": "container14",
+"position": Vector2(5800, 7800),
+"window": "container"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Materials/Deuterium": {
+"id": "f2c85fc8d363",
+"outputs_id": Array[String]([]),
+"resource": "deuterium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Materials/Tritium": {
+"id": "5fb90c2b01df",
+"outputs_id": Array[String]([]),
+"resource": "tritium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Materials/Water": {
+"id": "bb0466bf12bd",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Power": {
+"id": "9ffd3452abaf",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Product": {
+"id": "7e7150348471",
+"outputs_id": Array[String](["b2dfdb709199", "6e335b30f89b", "887915505978", "280dd5b00aa7", "44a51907cbeb", "e169f158a310", "6cb3cd9a8193", "22a64c8535bc", "8b675699c5a7", "2dbe6306042e", "7676d64e1807", "f207e8e9b7ff", "2a9a063fa363", "c6b2eb3afc42", "373636a9cf56", "eaec2a51a1ca"]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_fusion_reactor.tscn",
+"injection": 16,
+"name": "fusion_reactor0",
+"position": Vector2(7200, 8550),
+"window": "fusion_reactor"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "1f05bf48d0ee",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Water": {
+"id": "272dcff021b7",
+"outputs_id": Array[String](["96166d668773"]),
+"resource": "water",
+"variation": 0
+}
+},
+"filename": "window_electrical_pump.tscn",
+"name": "electric_pump1",
+"position": Vector2(6500, 8550),
+"window": "electric_pump"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "7f375ad1eb9b",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Water": {
+"id": "b818269fb7e9",
+"outputs_id": Array[String](["5610b46f6a08"]),
+"resource": "water",
+"variation": 0
+}
+},
+"filename": "window_electrical_pump.tscn",
+"name": "electric_pump2",
+"position": Vector2(6500, 8600),
+"window": "electric_pump"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "fbbbe4e19001",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Water": {
+"id": "16232ef68531",
+"outputs_id": Array[String](["467a2ce9c7f1"]),
+"resource": "water",
+"variation": 0
+}
+},
+"filename": "window_electrical_pump.tscn",
+"name": "electric_pump3",
+"position": Vector2(6500, 8650),
+"window": "electric_pump"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "65df0c2abe00",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Water": {
+"id": "6fe228bf42d6",
+"outputs_id": Array[String](["4e8d2e5f283e"]),
+"resource": "water",
+"variation": 0
+}
+},
+"filename": "window_electrical_pump.tscn",
+"name": "electric_pump4",
+"position": Vector2(6500, 8700),
+"window": "electric_pump"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "96166d668773",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "5610b46f6a08",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "467a2ce9c7f1",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "4e8d2e5f283e",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "14355de06b08",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "ebfbd4440f9d",
+"outputs_id": Array[String](["bb0466bf12bd"]),
+"resource": "water",
+"variation": 0
+}
+},
+"filename": "window_container.tscn",
+"name": "container26",
+"position": Vector2(6850, 8550),
+"window": "container"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "a3c77a72cdf3",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Water": {
+"id": "49c1c80f727e",
+"outputs_id": Array[String](["14355de06b08"]),
+"resource": "water",
+"variation": 0
+}
+},
+"filename": "window_electrical_pump.tscn",
+"name": "electric_pump5",
+"position": Vector2(6500, 8750),
+"window": "electric_pump"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "d59803112e61",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "29d187de6b4b",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "e0a38ceec7ac",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "9ccfba6109ab",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "9e0bc40f0559",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "681db1d14926",
+"outputs_id": Array[String](["659623b650e1"]),
+"resource": "water",
+"variation": 0
+}
+},
+"filename": "window_container.tscn",
+"name": "container3",
+"position": Vector2(4400, 7800),
+"window": "container"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "1f69c5eb8cd1",
+"outputs_id": Array[String]([]),
+"resource": "tritium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "c93ef1b1df6b",
+"outputs_id": Array[String]([]),
+"resource": "tritium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "bdb5398467ae",
+"outputs_id": Array[String]([]),
+"resource": "tritium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "4def4160aa79",
+"outputs_id": Array[String]([]),
+"resource": "tritium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "4ba30df87d17",
+"outputs_id": Array[String]([]),
+"resource": "tritium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "d3b536366b43",
+"outputs_id": Array[String](["5fb90c2b01df"]),
+"resource": "tritium",
+"variation": 0
+}
+},
+"filename": "window_container.tscn",
+"name": "container21",
+"position": Vector2(5800, 7850),
+"window": "container"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "db25928ef185",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Water": {
+"id": "81e694725170",
+"outputs_id": Array[String](["d59803112e61"]),
+"resource": "water",
+"variation": 0
+}
+},
+"filename": "window_electrical_pump.tscn",
+"name": "electric_pump6",
+"position": Vector2(4050, 7800),
+"window": "electric_pump"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "750880e56377",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Water": {
+"id": "82a1de756995",
+"outputs_id": Array[String](["29d187de6b4b"]),
+"resource": "water",
+"variation": 0
+}
+},
+"filename": "window_electrical_pump.tscn",
+"name": "electric_pump7",
+"position": Vector2(4050, 7850),
+"window": "electric_pump"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "fa3a965bea63",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Water": {
+"id": "5ddc79020a6c",
+"outputs_id": Array[String](["e0a38ceec7ac"]),
+"resource": "water",
+"variation": 0
+}
+},
+"filename": "window_electrical_pump.tscn",
+"name": "electric_pump8",
+"position": Vector2(4050, 7900),
+"window": "electric_pump"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "96eeab47f3cb",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Water": {
+"id": "4d24f43de7ed",
+"outputs_id": Array[String](["9ccfba6109ab"]),
+"resource": "water",
+"variation": 0
+}
+},
+"filename": "window_electrical_pump.tscn",
+"name": "electric_pump9",
+"position": Vector2(4050, 7950),
+"window": "electric_pump"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Materials/HeavyWater": {
+"id": "29a169b665df",
+"outputs_id": Array[String]([]),
+"resource": "heavy_water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Power": {
+"id": "119ba12ffe20",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Product": {
+"id": "fb42ba0bc298",
+"outputs_id": Array[String](["45d537279910"]),
+"resource": "deuterium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Speed": {
+"id": "15b622a7e182",
+"outputs_id": Array[String]([]),
+"resource": "work_speed",
+"variation": 0
+}
+},
+"filename": "window_electrolyzer.tscn",
+"name": "electrolyzer0",
+"position": Vector2(7200, 7950),
+"window": "electrolyzer"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "356ae8449eb1",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Water": {
+"id": "c93b2893137c",
+"outputs_id": Array[String](["dbbcb837ad24"]),
+"resource": "water",
+"variation": 0
+}
+},
+"filename": "window_electrical_pump.tscn",
+"name": "electric_pump17",
+"position": Vector2(6150, 7800),
+"window": "electric_pump"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "a68a6135ac06",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Water": {
+"id": "5e9751475f1f",
+"outputs_id": Array[String](["77be7b2235b7"]),
+"resource": "water",
+"variation": 0
+}
+},
+"filename": "window_electrical_pump.tscn",
+"name": "electric_pump18",
+"position": Vector2(6150, 7850),
+"window": "electric_pump"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "dbbcb837ad24",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "77be7b2235b7",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "437e20f2c8f4",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "7c28464427b8",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "08a4af092c9f",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "b9d5d730e54f",
+"outputs_id": Array[String](["d22527258af1", "7110da9a435c", "8a17a63c7421", "5dceb3462c7f", "85276521a4a2", "b73de6f647c2", "96a4e54770fd", "e3f95f08b088"]),
+"resource": "water",
+"variation": 0
+}
+},
+"filename": "window_container.tscn",
+"name": "container0",
+"position": Vector2(6500, 7800),
+"window": "container"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Materials/HeavyWater": {
+"id": "9e7a7355ad24",
+"outputs_id": Array[String]([]),
+"resource": "heavy_water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Power": {
+"id": "8d51b5bb915a",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Product": {
+"id": "6dcbd0792514",
+"outputs_id": Array[String](["10f11bd9aadc"]),
+"resource": "deuterium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Speed": {
+"id": "3c5da77ba54c",
+"outputs_id": Array[String]([]),
+"resource": "work_speed",
+"variation": 0
+}
+},
+"filename": "window_electrolyzer.tscn",
+"name": "electrolyzer4",
+"position": Vector2(7200, 8000),
+"window": "electrolyzer"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Materials/HeavyWater": {
+"id": "bedf2b3ac010",
+"outputs_id": Array[String]([]),
+"resource": "heavy_water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Power": {
+"id": "faf892bd137d",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Product": {
+"id": "079897a49c6c",
+"outputs_id": Array[String](["53ecb6d746d0"]),
+"resource": "deuterium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Speed": {
+"id": "ac823a16197b",
+"outputs_id": Array[String]([]),
+"resource": "work_speed",
+"variation": 0
+}
+},
+"filename": "window_electrolyzer.tscn",
+"name": "electrolyzer5",
+"position": Vector2(7200, 8050),
+"window": "electrolyzer"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Materials/HeavyWater": {
+"id": "0e7a6269d8bc",
+"outputs_id": Array[String]([]),
+"resource": "heavy_water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Power": {
+"id": "d60faa3a40ce",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Product": {
+"id": "4560a171bdb0",
+"outputs_id": Array[String](["e92fab60b487"]),
+"resource": "deuterium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Speed": {
+"id": "49f20e3fdf83",
+"outputs_id": Array[String]([]),
+"resource": "work_speed",
+"variation": 0
+}
+},
+"filename": "window_electrolyzer.tscn",
+"name": "electrolyzer6",
+"position": Vector2(7200, 8100),
+"window": "electrolyzer"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Materials/HeavyWater": {
+"id": "6bc1d85bf1a8",
+"outputs_id": Array[String]([]),
+"resource": "heavy_water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Power": {
+"id": "46edc68f9993",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Product": {
+"id": "4c836de14707",
+"outputs_id": Array[String](["9121ec42bf9b"]),
+"resource": "deuterium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Speed": {
+"id": "adddafccbc0a",
+"outputs_id": Array[String]([]),
+"resource": "work_speed",
+"variation": 0
+}
+},
+"filename": "window_electrolyzer.tscn",
+"name": "electrolyzer7",
+"position": Vector2(7200, 8150),
+"window": "electrolyzer"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "d67cec18d11e",
+"outputs_id": Array[String]([]),
+"resource": "deuterium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "45d537279910",
+"outputs_id": Array[String]([]),
+"resource": "deuterium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "aee0367f4a68",
+"outputs_id": Array[String]([]),
+"resource": "deuterium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "9b3360719075",
+"outputs_id": Array[String]([]),
+"resource": "deuterium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "5ae0ab545697",
+"outputs_id": Array[String]([]),
+"resource": "deuterium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "268a3c24474e",
+"outputs_id": Array[String](["811dc3a6b134"]),
+"resource": "deuterium",
+"variation": 0
+}
+},
+"filename": "window_container.tscn",
+"name": "container6",
+"position": Vector2(7550, 7800),
+"window": "container"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "e92fab60b487",
+"outputs_id": Array[String]([]),
+"resource": "deuterium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "9121ec42bf9b",
+"outputs_id": Array[String]([]),
+"resource": "deuterium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "10f11bd9aadc",
+"outputs_id": Array[String]([]),
+"resource": "deuterium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "53ecb6d746d0",
+"outputs_id": Array[String]([]),
+"resource": "deuterium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "811dc3a6b134",
+"outputs_id": Array[String]([]),
+"resource": "deuterium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "c643732f9067",
+"outputs_id": Array[String](["f2c85fc8d363"]),
+"resource": "deuterium",
+"variation": 0
+}
+},
+"filename": "window_container.tscn",
+"name": "container11",
+"position": Vector2(7550, 7850),
+"window": "container"
+}, {
+"color": 0,
+"container_data": {},
+"custom_icon": "",
+"custom_name": "Neutron 8x",
+"filename": "window_group.tscn",
+"name": "group1",
+"position": Vector2(4050, 7750),
+"size": Vector2(2100, 750),
+"window": "group"
+}, {
+"color": 0,
+"container_data": {},
+"custom_icon": "",
+"custom_name": "",
+"filename": "window_group.tscn",
+"name": "group12",
+"position": Vector2(7600, 7900),
+"size": Vector2(300, 200),
+"window": "group"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "fef0505393fc",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Water": {
+"id": "c9665802e4e7",
+"outputs_id": Array[String](["9e0bc40f0559"]),
+"resource": "water",
+"variation": 0
+}
+},
+"filename": "window_electrical_pump.tscn",
+"name": "electric_pump10",
+"position": Vector2(4050, 8000),
+"window": "electric_pump"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "659623b650e1",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "15d943f9fbc0",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "9b0599af8b67",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "a291cbb419ed",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "7d33f0b828a0",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "493c2e47b277",
+"outputs_id": Array[String](["24f931d8f74c", "76792677c494"]),
+"resource": "water",
+"variation": 0
+}
+},
+"filename": "window_container.tscn",
+"name": "container19",
+"position": Vector2(4750, 7800),
+"window": "container"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Materials/Lithium": {
+"id": "d663e8e15af7",
+"outputs_id": Array[String]([]),
+"resource": "lithium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Power": {
+"id": "62147ea93541",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Product": {
+"id": "a6c1e87258ba",
+"outputs_id": Array[String](["c4846fae2bf1"]),
+"resource": "tritium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Speed": {
+"id": "ce29d58d6e14",
+"outputs_id": Array[String]([]),
+"resource": "work_speed",
+"variation": 0
+}
+},
+"filename": "window_neutron_activator.tscn",
+"name": "neutron_activator2",
+"position": Vector2(5450, 7850),
+"window": "neutron_activator"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Materials/Lithium": {
+"id": "a1b9f2f67867",
+"outputs_id": Array[String]([]),
+"resource": "lithium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Power": {
+"id": "378a4277360b",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Product": {
+"id": "a73c9f1e4dd4",
+"outputs_id": Array[String](["1aa74b126890"]),
+"resource": "tritium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Speed": {
+"id": "b7a6971afc80",
+"outputs_id": Array[String]([]),
+"resource": "work_speed",
+"variation": 0
+}
+},
+"filename": "window_neutron_activator.tscn",
+"name": "neutron_activator0",
+"position": Vector2(5450, 7900),
+"window": "neutron_activator"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Materials/Lithium": {
+"id": "b328b4acf058",
+"outputs_id": Array[String]([]),
+"resource": "lithium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Power": {
+"id": "dfcdb1d8305d",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Product": {
+"id": "2526a666bf49",
+"outputs_id": Array[String](["ecd15430db7e"]),
+"resource": "tritium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Speed": {
+"id": "a4dd0a529a9b",
+"outputs_id": Array[String]([]),
+"resource": "work_speed",
+"variation": 0
+}
+},
+"filename": "window_neutron_activator.tscn",
+"name": "neutron_activator1",
+"position": Vector2(5450, 7950),
+"window": "neutron_activator"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Materials/Lithium": {
+"id": "97a123cb528e",
+"outputs_id": Array[String]([]),
+"resource": "lithium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Power": {
+"id": "bf6d7b512e96",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Product": {
+"id": "4dc870013aac",
+"outputs_id": Array[String](["bdb5398467ae"]),
+"resource": "tritium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Speed": {
+"id": "b52c5cf77a33",
+"outputs_id": Array[String]([]),
+"resource": "work_speed",
+"variation": 0
+}
+},
+"filename": "window_neutron_activator.tscn",
+"name": "neutron_activator4",
+"position": Vector2(5450, 8000),
+"window": "neutron_activator"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Materials/Lithium": {
+"id": "18dfd6f7493e",
+"outputs_id": Array[String]([]),
+"resource": "lithium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Power": {
+"id": "6c8ea71ebbd0",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Product": {
+"id": "757bf71ce7b8",
+"outputs_id": Array[String](["4def4160aa79"]),
+"resource": "tritium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Speed": {
+"id": "705a519902bc",
+"outputs_id": Array[String]([]),
+"resource": "work_speed",
+"variation": 0
+}
+},
+"filename": "window_neutron_activator.tscn",
+"name": "neutron_activator5",
+"position": Vector2(5450, 8050),
+"window": "neutron_activator"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Materials/Lithium": {
+"id": "cf390355fb9a",
+"outputs_id": Array[String]([]),
+"resource": "lithium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Power": {
+"id": "436b0b9558fc",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Product": {
+"id": "564acef6ab94",
+"outputs_id": Array[String](["c93ef1b1df6b"]),
+"resource": "tritium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Speed": {
+"id": "8ad4fc1b2694",
+"outputs_id": Array[String]([]),
+"resource": "work_speed",
+"variation": 0
+}
+},
+"filename": "window_neutron_activator.tscn",
+"name": "neutron_activator6",
+"position": Vector2(5450, 8100),
+"window": "neutron_activator"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Materials/Lithium": {
+"id": "669ba701a07b",
+"outputs_id": Array[String]([]),
+"resource": "lithium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Power": {
+"id": "79629520d6cf",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Product": {
+"id": "a8f957d91289",
+"outputs_id": Array[String](["1f69c5eb8cd1"]),
+"resource": "tritium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Speed": {
+"id": "c76ebb85d3ff",
+"outputs_id": Array[String]([]),
+"resource": "work_speed",
+"variation": 0
+}
+},
+"filename": "window_neutron_activator.tscn",
+"name": "neutron_activator7",
+"position": Vector2(5450, 8150),
+"window": "neutron_activator"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Materials/Water": {
+"id": "76792677c494",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Product": {
+"id": "36cb498d5458",
+"outputs_id": Array[String](["cf390355fb9a", "669ba701a07b", "97a123cb528e", "18dfd6f7493e"]),
+"resource": "lithium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Speed": {
+"id": "769987be9452",
+"outputs_id": Array[String]([]),
+"resource": "work_speed",
+"variation": 0
+}
+},
+"filename": "window_evaporation_tank.tscn",
+"name": "evaporation_tank2",
+"position": Vector2(5100, 7850),
+"window": "evaporation_tank"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Materials/Water": {
+"id": "85276521a4a2",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Product": {
+"id": "982129fe2244",
+"outputs_id": Array[String](["b4a3a56e6476"]),
+"resource": "heavy_water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Speed": {
+"id": "2846b25f8578",
+"outputs_id": Array[String]([]),
+"resource": "work_speed",
+"variation": 0
+}
+},
+"filename": "window_water_filter.tscn",
+"name": "water_filter2",
+"position": Vector2(6850, 7800),
+"window": "water_filter"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Materials/Water": {
+"id": "b73de6f647c2",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Product": {
+"id": "867343fca256",
+"outputs_id": Array[String](["d86b4c51e3e0"]),
+"resource": "heavy_water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Speed": {
+"id": "48f5cf0cc660",
+"outputs_id": Array[String]([]),
+"resource": "work_speed",
+"variation": 0
+}
+},
+"filename": "window_water_filter.tscn",
+"name": "water_filter3",
+"position": Vector2(6850, 7850),
+"window": "water_filter"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Materials/Water": {
+"id": "e3f95f08b088",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Product": {
+"id": "b6e7d9c918c1",
+"outputs_id": Array[String](["5e03bf9dd036"]),
+"resource": "heavy_water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Speed": {
+"id": "4ad8d6c30768",
+"outputs_id": Array[String]([]),
+"resource": "work_speed",
+"variation": 0
+}
+},
+"filename": "window_water_filter.tscn",
+"name": "water_filter1",
+"position": Vector2(6850, 7900),
+"window": "water_filter"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Materials/Water": {
+"id": "96a4e54770fd",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Product": {
+"id": "1d3d89f5a941",
+"outputs_id": Array[String](["29a169b665df"]),
+"resource": "heavy_water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Speed": {
+"id": "678e09df80ac",
+"outputs_id": Array[String]([]),
+"resource": "work_speed",
+"variation": 0
+}
+},
+"filename": "window_water_filter.tscn",
+"name": "water_filter0",
+"position": Vector2(6850, 7950),
+"window": "water_filter"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Materials/Water": {
+"id": "d22527258af1",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Product": {
+"id": "02f3d89e25fd",
+"outputs_id": Array[String](["9e7a7355ad24"]),
+"resource": "heavy_water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Speed": {
+"id": "4cec3edaface",
+"outputs_id": Array[String]([]),
+"resource": "work_speed",
+"variation": 0
+}
+},
+"filename": "window_water_filter.tscn",
+"name": "water_filter4",
+"position": Vector2(6850, 8000),
+"window": "water_filter"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Materials/Water": {
+"id": "7110da9a435c",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Product": {
+"id": "7fe8e632fd59",
+"outputs_id": Array[String](["bedf2b3ac010"]),
+"resource": "heavy_water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Speed": {
+"id": "ec01154989eb",
+"outputs_id": Array[String]([]),
+"resource": "work_speed",
+"variation": 0
+}
+},
+"filename": "window_water_filter.tscn",
+"name": "water_filter5",
+"position": Vector2(6850, 8050),
+"window": "water_filter"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Materials/Water": {
+"id": "8a17a63c7421",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Product": {
+"id": "049e7864d94c",
+"outputs_id": Array[String](["0e7a6269d8bc"]),
+"resource": "heavy_water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Speed": {
+"id": "80a3e3c9842e",
+"outputs_id": Array[String]([]),
+"resource": "work_speed",
+"variation": 0
+}
+},
+"filename": "window_water_filter.tscn",
+"name": "water_filter6",
+"position": Vector2(6850, 8100),
+"window": "water_filter"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Materials/Water": {
+"id": "5dceb3462c7f",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Product": {
+"id": "6d1bb70bc3b8",
+"outputs_id": Array[String](["6bc1d85bf1a8"]),
+"resource": "heavy_water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Speed": {
+"id": "558d1915801b",
+"outputs_id": Array[String]([]),
+"resource": "work_speed",
+"variation": 0
+}
+},
+"filename": "window_water_filter.tscn",
+"name": "water_filter7",
+"position": Vector2(6850, 8150),
+"window": "water_filter"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "1fd357e16fa1",
+"outputs_id": Array[String](["f75a6faaa094"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "b2dfdb709199",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine35",
+"position": Vector2(6850, 9200),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "92a44efe07e9",
+"outputs_id": Array[String](["11bfe1a3846f"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "6e335b30f89b",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine36",
+"position": Vector2(6850, 9250),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "07eb14e08573",
+"outputs_id": Array[String](["80d4e8f60a81"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "887915505978",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine37",
+"position": Vector2(6850, 9300),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "531da6526a2b",
+"outputs_id": Array[String](["9a26c51b8512"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "280dd5b00aa7",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine38",
+"position": Vector2(6850, 9350),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "cbe8ed0486b3",
+"outputs_id": Array[String](["72ec11f2f6b1"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "44a51907cbeb",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine39",
+"position": Vector2(6850, 9400),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "39630fa059e3",
+"outputs_id": Array[String](["834fc83f1434"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "e169f158a310",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine40",
+"position": Vector2(6850, 9450),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "a881e28578dc",
+"outputs_id": Array[String](["64320e06a1c7"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "6cb3cd9a8193",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine41",
+"position": Vector2(6850, 9500),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "b834133155ad",
+"outputs_id": Array[String](["615d198a910c"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "22a64c8535bc",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine42",
+"position": Vector2(6850, 9550),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "9d94bc5edded",
+"outputs_id": Array[String](["c9b1bac2731c"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "8b675699c5a7",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine43",
+"position": Vector2(7200, 9200),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "10e7ef7ea4cc",
+"outputs_id": Array[String](["01c217a40eeb"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "2dbe6306042e",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine45",
+"position": Vector2(7200, 9250),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "cdde55b8fc05",
+"outputs_id": Array[String](["aea31342a016"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "7676d64e1807",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine47",
+"position": Vector2(7200, 9300),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "3effe67dd086",
+"outputs_id": Array[String](["6dcc433eaa67"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "f207e8e9b7ff",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine49",
+"position": Vector2(7200, 9350),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "b06df09a3c1e",
+"outputs_id": Array[String](["2ed8196acc2d"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "2a9a063fa363",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine44",
+"position": Vector2(7200, 9400),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "e1f114ea50f0",
+"outputs_id": Array[String](["085a292da574"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "c6b2eb3afc42",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine46",
+"position": Vector2(7200, 9450),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "ee50b8183ebd",
+"outputs_id": Array[String](["5da890ae7cd7"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "373636a9cf56",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine48",
+"position": Vector2(7200, 9500),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "aed0a52aa6fe",
+"outputs_id": Array[String](["73ed00e7cf8d"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "eaec2a51a1ca",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine50",
+"position": Vector2(7200, 9550),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "72ec11f2f6b1",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "f75a6faaa094",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "11bfe1a3846f",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "64320e06a1c7",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "80d4e8f60a81",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "67765d84dd84",
+"outputs_id": Array[String](["0a11c09036a0"]),
+"resource": "power",
+"variation": 0
+}
+},
+"filename": "window_power_line.tscn",
+"name": "power_line10",
+"position": Vector2(7550, 9200),
+"window": "power_line"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "0a11c09036a0",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "9a26c51b8512",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "834fc83f1434",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "615d198a910c",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "a0227c1e088f",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "42cd02799fdf",
+"outputs_id": Array[String](["5320751e1b47"]),
+"resource": "power",
+"variation": 0
+}
+},
+"filename": "window_power_line.tscn",
+"name": "power_line11",
+"position": Vector2(7550, 9250),
+"window": "power_line"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "c9b1bac2731c",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "01c217a40eeb",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "aea31342a016",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "6dcc433eaa67",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "5320751e1b47",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "a6d8e430b54c",
+"outputs_id": Array[String](["2cb789b9e202"]),
+"resource": "power",
+"variation": 0
+}
+},
+"filename": "window_power_line.tscn",
+"name": "power_line13",
+"position": Vector2(7550, 9300),
+"window": "power_line"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "2cb789b9e202",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "2ed8196acc2d",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "085a292da574",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "5da890ae7cd7",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "73ed00e7cf8d",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "b5f7cc014778",
+"outputs_id": Array[String](["5e5a5a709b52"]),
+"resource": "power",
+"variation": 0
+}
+},
+"filename": "window_power_line.tscn",
+"name": "power_line12",
+"position": Vector2(7550, 9350),
+"window": "power_line"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "5e5a5a709b52",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "b07619240b9c",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "eb94d9bc7fbb",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "e6b9b65c19e9",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "dacedaa08761",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "98e68452b96b",
+"outputs_id": Array[String](["2cdf51eaa175"]),
+"resource": "power",
+"variation": 0
+}
+},
+"filename": "window_power_line.tscn",
+"name": "power_line0",
+"position": Vector2(7550, 8550),
+"window": "power_line"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "83d9a44d4764",
+"outputs_id": Array[String](["606601f81449"]),
+"resource": "kinetic_energy",
+"variation": 0
+}
+},
+"filename": "window_wind_turbine.tscn",
+"name": "wind_turbine0",
+"position": Vector2(4050, 8550),
+"window": "wind_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Boron": {
+"id": "35f7df6cb37f",
+"outputs_id": Array[String](["d3f2d19bf0a6"]),
+"resource": "boron",
+"variation": 0
+}
+},
+"filename": "window_boron_miner.tscn",
+"name": "boron_miner1",
+"position": Vector2(4750, 9100),
+"window": "boron_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "4dcf56b6a5c2",
+"outputs_id": Array[String](["44e22e856271"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner0",
+"position": Vector2(4400, 8550),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "295bb95abdf0",
+"outputs_id": Array[String](["4e48c78e3dea"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner1",
+"position": Vector2(4400, 8600),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "8ec319462027",
+"outputs_id": Array[String](["1809559f22cc"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner2",
+"position": Vector2(4400, 8650),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "8d641137fac9",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Water": {
+"id": "86f1730d981a",
+"outputs_id": Array[String](["637ac3398ba5"]),
+"resource": "water",
+"variation": 0
+}
+},
+"filename": "window_electrical_pump.tscn",
+"name": "electric_pump0",
+"position": Vector2(4050, 8950),
+"window": "electric_pump"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "e5c16cc5207e",
+"outputs_id": Array[String](["6adf84e81b80"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner3",
+"position": Vector2(4400, 8700),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Materials/Boron": {
+"id": "8276d156aa5a",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Materials/Uranium": {
+"id": "dfaa6c793c1a",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Materials/Water": {
+"id": "4d985ce1d601",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Product": {
+"id": "d9d37fd8358c",
+"outputs_id": Array[String](["7640ae58bb5d", "50ec58139150", "fb286b8056e8", "dbc7ebe5a001"]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_fission_reactor.tscn",
+"name": "fission_reactor0",
+"position": Vector2(5450, 8550),
+"stability": 0,
+"window": "fission_reactor"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "3d2a0a1d2180",
+"outputs_id": Array[String](["23658efe3f9d"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner4",
+"position": Vector2(4400, 8750),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "5364c362c788",
+"outputs_id": Array[String](["ab40dbf16e0f"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner5",
+"position": Vector2(4400, 8800),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "5df73746ea61",
+"outputs_id": Array[String](["960805d15acc"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner6",
+"position": Vector2(4400, 8850),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Boron": {
+"id": "fa0cc40c09f3",
+"outputs_id": Array[String](["24d7bbf31030"]),
+"resource": "boron",
+"variation": 0
+}
+},
+"filename": "window_boron_miner.tscn",
+"name": "boron_miner0",
+"position": Vector2(4750, 9150),
+"window": "boron_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Boron": {
+"id": "2a6d02d418b2",
+"outputs_id": Array[String](["294c5045f79f"]),
+"resource": "boron",
+"variation": 0
+}
+},
+"filename": "window_boron_miner.tscn",
+"name": "boron_miner2",
+"position": Vector2(4750, 9200),
+"window": "boron_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "44e22e856271",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "4e48c78e3dea",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "1809559f22cc",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "6adf84e81b80",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "db545a0a3c79",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "b0f51560b87a",
+"outputs_id": Array[String](["6f0d8e4f6a8e"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_container.tscn",
+"name": "container42",
+"position": Vector2(4750, 8550),
+"window": "container"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "23658efe3f9d",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "ab40dbf16e0f",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "960805d15acc",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "dc5fd4912e5b",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "6f0d8e4f6a8e",
+"outputs_id": Array[String]([]),
+"resource": "uranium",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "e75f0d2f1eab",
+"outputs_id": Array[String](["dfaa6c793c1a"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_container.tscn",
+"name": "container43",
+"position": Vector2(4750, 8600),
+"window": "container"
+}, {
+"color": 0,
+"container_data": {},
+"custom_icon": "",
+"custom_name": "Electrolyzer 8x",
+"filename": "window_group.tscn",
+"name": "group15",
+"position": Vector2(6150, 7750),
+"size": Vector2(1750, 750),
+"window": "group"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Energy": {
+"id": "606601f81449",
+"outputs_id": Array[String]([]),
+"resource": "kinetic_energy",
+"variation": 0
+},
+"PanelContainer/MainContainer/Power": {
+"id": "bbf04275309c",
+"outputs_id": Array[String](["8d641137fac9", "1ebe60508719", "e7f96d50a4ac"]),
+"resource": "power",
+"variation": 0
+}
+},
+"filename": "window_dynamo.tscn",
+"name": "dynamo0",
+"position": Vector2(4050, 8700),
+"window": "dynamo"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Uranium": {
+"id": "c017b5ea6c9c",
+"outputs_id": Array[String](["dc5fd4912e5b"]),
+"resource": "uranium",
+"variation": 0
+}
+},
+"filename": "window_uranium_miner.tscn",
+"name": "uranium_miner7",
+"position": Vector2(4400, 8900),
+"window": "uranium_miner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "87dd1a05704a",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "77823de3c25f",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "fb6429b9b4d3",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "dedda5d9d993",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "e7f96d50a4ac",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "f19116d5394b",
+"outputs_id": Array[String](["119ba12ffe20", "85c052356527", "ef093a30fe4b", "139f2ba2ab0d", "dfcdb1d8305d", "378a4277360b", "62147ea93541", "e942d9f28d82", "9ffd3452abaf", "1f05bf48d0ee", "7f375ad1eb9b", "fbbbe4e19001", "65df0c2abe00", "a3c77a72cdf3", "db25928ef185", "750880e56377", "fa3a965bea63", "96eeab47f3cb", "fef0505393fc", "6c8ea71ebbd0", "436b0b9558fc", "79629520d6cf", "bf6d7b512e96", "8d51b5bb915a", "faf892bd137d", "d60faa3a40ce", "46edc68f9993", "356ae8449eb1", "a68a6135ac06", "b07619240b9c", "69395d887031"]),
+"resource": "power",
+"variation": 0
+}
+},
+"filename": "window_power_line.tscn",
+"name": "power_line2",
+"position": Vector2(6150, 8550),
+"window": "power_line"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Boron": {
+"id": "c08334d749a8",
+"outputs_id": Array[String](["6c7e98ab79b8"]),
+"resource": "boron",
+"variation": 0
+}
+},
+"filename": "window_boron_miner.tscn",
+"name": "boron_miner3",
+"position": Vector2(4750, 9250),
+"window": "boron_miner"
+}, {
+"color": 0,
+"container_data": {},
+"custom_icon": "",
+"custom_name": "Fusion Reactor",
+"filename": "window_group.tscn",
+"name": "group17",
+"position": Vector2(6500, 8500),
+"size": Vector2(1050, 650),
+"window": "group"
+}, {
+"color": 0,
+"container_data": {},
+"custom_icon": "",
+"custom_name": "",
+"filename": "window_group.tscn",
+"name": "group19",
+"position": Vector2(7550, 8500),
+"size": Vector2(350, 650),
+"window": "group"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "67301cecf838",
+"outputs_id": Array[String](["87dd1a05704a"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "7640ae58bb5d",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine8",
+"position": Vector2(5800, 8550),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "1ebe60508719",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Water": {
+"id": "2ef2db905dc1",
+"outputs_id": Array[String](["272b34e173b0"]),
+"resource": "water",
+"variation": 0
+}
+},
+"filename": "window_electrical_pump.tscn",
+"name": "electric_pump11",
+"position": Vector2(4050, 9150),
+"window": "electric_pump"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "24d7bbf31030",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "d3f2d19bf0a6",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "294c5045f79f",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "6c7e98ab79b8",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "bac1ebb91beb",
+"outputs_id": Array[String]([]),
+"resource": "boron",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "f34cf93c1494",
+"outputs_id": Array[String](["8276d156aa5a"]),
+"resource": "boron",
+"variation": 0
+}
+},
+"filename": "window_container.tscn",
+"name": "container32",
+"position": Vector2(5100, 8550),
+"window": "container"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "637ac3398ba5",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "272b34e173b0",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "3bc5e23b4339",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "eb89b175d2eb",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "2788950455bb",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "211e9764daa5",
+"outputs_id": Array[String](["4d985ce1d601"]),
+"resource": "water",
+"variation": 0
+}
+},
+"filename": "window_container.tscn",
+"name": "container34",
+"position": Vector2(4400, 9050),
+"window": "container"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Boost": {
+"id": "a86f7077a75d",
+"outputs_id": Array[String]([]),
+"resource": "boost_work",
+"variation": 0
+},
+"PanelContainer/MainContainer/Power": {
+"id": "2cdf51eaa175",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+}
+},
+"filename": "window_empowerer.tscn",
+"name": "empowerer0",
+"position": Vector2(7550, 8900),
+"window": "empowerer"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "73e76de68429",
+"outputs_id": Array[String](["fb6429b9b4d3"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "50ec58139150",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine10",
+"position": Vector2(5800, 8600),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "5a4f3ed0c139",
+"outputs_id": Array[String](["77823de3c25f"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "fb286b8056e8",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine9",
+"position": Vector2(5800, 8650),
+"window": "steam_turbine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "3d306799a724",
+"outputs_id": Array[String](["dedda5d9d993"]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Steam": {
+"id": "dbc7ebe5a001",
+"outputs_id": Array[String]([]),
+"resource": "steam",
+"variation": 0
+}
+},
+"filename": "window_steam_turbine.tscn",
+"name": "steam_turbine11",
+"position": Vector2(5800, 8700),
+"window": "steam_turbine"
+}, {
+"color": 0,
+"container_data": {},
+"custom_icon": "",
+"custom_name": "",
+"filename": "window_group.tscn",
+"name": "group16",
+"position": Vector2(4050, 8500),
+"size": Vector2(2450, 950),
+"window": "group"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Power": {
+"id": "69395d887031",
+"outputs_id": Array[String]([]),
+"resource": "power",
+"variation": 0
+},
+"PanelContainer/MainContainer/Water": {
+"id": "600ea547c7ca",
+"outputs_id": Array[String](["196808314af5"]),
+"resource": "water",
+"variation": 0
+}
+},
+"filename": "window_electrical_pump.tscn",
+"name": "electric_pump12",
+"position": Vector2(4400, 8300),
+"window": "electric_pump"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Output1/Splitted": {
+"id": "589d510d94b5",
+"outputs_id": Array[String](["15d943f9fbc0"]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output2/Splitted": {
+"id": "e33aa7574b3a",
+"outputs_id": Array[String](["437e20f2c8f4"]),
+"resource": "water",
+"variation": 0
+},
+"PanelContainer/MainContainer/Splitting": {
+"id": "196808314af5",
+"outputs_id": Array[String]([]),
+"resource": "water",
+"variation": 0
+}
+},
+"filename": "window_distributor.tscn",
+"name": "distributor0",
+"position": Vector2(4750, 8250),
+"ratio": 3.0,
+"ratio2": 2.0,
+"window": "distributor"
+}, {
+"color": 0,
+"container_data": {},
+"custom_icon": "",
+"custom_name": "Steam Tur 16x",
+"filename": "window_group.tscn",
+"name": "group18",
+"position": Vector2(6850, 9150),
+"size": Vector2(1050, 700),
+"window": "group"
+}]
+connectors={
+"01c217a40eeb": {
+"custom_points": Array[Vector2]([])
+},
+"085a292da574": {
+"custom_points": Array[Vector2]([])
+},
+"0a11c09036a0": {
+"custom_points": Array[Vector2]([])
+},
+"0e7a6269d8bc": {
+"custom_points": Array[Vector2]([])
+},
+"10f11bd9aadc": {
+"custom_points": Array[Vector2]([])
+},
+"119ba12ffe20": {
+"custom_points": Array[Vector2]([])
+},
+"11bfe1a3846f": {
+"custom_points": Array[Vector2]([])
+},
+"1289063950e3": {
+"custom_points": Array[Vector2]([])
+},
+"139f2ba2ab0d": {
+"custom_points": Array[Vector2]([])
+},
+"14355de06b08": {
+"custom_points": Array[Vector2]([])
+},
+"15d943f9fbc0": {
+"custom_points": Array[Vector2]([])
+},
+"1809559f22cc": {
+"custom_points": Array[Vector2]([])
+},
+"18dfd6f7493e": {
+"custom_points": Array[Vector2]([])
+},
+"196808314af5": {
+"custom_points": Array[Vector2]([])
+},
+"1aa74b126890": {
+"custom_points": Array[Vector2]([])
+},
+"1ebe60508719": {
+"custom_points": Array[Vector2]([])
+},
+"1f05bf48d0ee": {
+"custom_points": Array[Vector2]([])
+},
+"1f69c5eb8cd1": {
+"custom_points": Array[Vector2]([])
+},
+"22a64c8535bc": {
+"custom_points": Array[Vector2]([])
+},
+"23658efe3f9d": {
+"custom_points": Array[Vector2]([])
+},
+"24d7bbf31030": {
+"custom_points": Array[Vector2]([])
+},
+"24f931d8f74c": {
+"custom_points": Array[Vector2]([])
+},
+"272b34e173b0": {
+"custom_points": Array[Vector2]([])
+},
+"280dd5b00aa7": {
+"custom_points": Array[Vector2]([])
+},
+"294c5045f79f": {
+"custom_points": Array[Vector2]([])
+},
+"29a169b665df": {
+"custom_points": Array[Vector2]([])
+},
+"29d187de6b4b": {
+"custom_points": Array[Vector2]([])
+},
+"2a9a063fa363": {
+"custom_points": Array[Vector2]([])
+},
+"2cb789b9e202": {
+"custom_points": Array[Vector2]([])
+},
+"2cdf51eaa175": {
+"custom_points": Array[Vector2]([])
+},
+"2dbe6306042e": {
+"custom_points": Array[Vector2]([])
+},
+"2ed8196acc2d": {
+"custom_points": Array[Vector2]([])
+},
+"356ae8449eb1": {
+"custom_points": Array[Vector2]([])
+},
+"373636a9cf56": {
+"custom_points": Array[Vector2]([])
+},
+"378a4277360b": {
+"custom_points": Array[Vector2]([])
+},
+"436b0b9558fc": {
+"custom_points": Array[Vector2]([])
+},
+"437e20f2c8f4": {
+"custom_points": Array[Vector2]([])
+},
+"44a51907cbeb": {
+"custom_points": Array[Vector2]([])
+},
+"44e22e856271": {
+"custom_points": Array[Vector2]([])
+},
+"45d537279910": {
+"custom_points": Array[Vector2]([])
+},
+"467a2ce9c7f1": {
+"custom_points": Array[Vector2]([])
+},
+"46edc68f9993": {
+"custom_points": Array[Vector2]([])
+},
+"4845090ee9e2": {
+"custom_points": Array[Vector2]([])
+},
+"4ba30df87d17": {
+"custom_points": Array[Vector2]([])
+},
+"4d985ce1d601": {
+"custom_points": Array[Vector2]([])
+},
+"4def4160aa79": {
+"custom_points": Array[Vector2]([])
+},
+"4e48c78e3dea": {
+"custom_points": Array[Vector2]([])
+},
+"4e8d2e5f283e": {
+"custom_points": Array[Vector2]([])
+},
+"50ec58139150": {
+"custom_points": Array[Vector2]([])
+},
+"5320751e1b47": {
+"custom_points": Array[Vector2]([])
+},
+"53ecb6d746d0": {
+"custom_points": Array[Vector2]([])
+},
+"5610b46f6a08": {
+"custom_points": Array[Vector2]([])
+},
+"5da890ae7cd7": {
+"custom_points": Array[Vector2]([])
+},
+"5dceb3462c7f": {
+"custom_points": Array[Vector2]([])
+},
+"5e03bf9dd036": {
+"custom_points": Array[Vector2]([])
+},
+"5e5a5a709b52": {
+"custom_points": Array[Vector2]([])
+},
+"5fb90c2b01df": {
+"custom_points": Array[Vector2]([])
+},
+"606601f81449": {
+"custom_points": Array[Vector2]([])
+},
+"615d198a910c": {
+"custom_points": Array[Vector2]([])
+},
+"62147ea93541": {
+"custom_points": Array[Vector2]([])
+},
+"637ac3398ba5": {
+"custom_points": Array[Vector2]([])
+},
+"64320e06a1c7": {
+"custom_points": Array[Vector2]([])
+},
+"659623b650e1": {
+"custom_points": Array[Vector2]([])
+},
+"65df0c2abe00": {
+"custom_points": Array[Vector2]([])
+},
+"669ba701a07b": {
+"custom_points": Array[Vector2]([])
+},
+"69395d887031": {
+"custom_points": Array[Vector2]([])
+},
+"6adf84e81b80": {
+"custom_points": Array[Vector2]([])
+},
+"6bc1d85bf1a8": {
+"custom_points": Array[Vector2]([])
+},
+"6c7e98ab79b8": {
+"custom_points": Array[Vector2]([])
+},
+"6c8ea71ebbd0": {
+"custom_points": Array[Vector2]([])
+},
+"6cb3cd9a8193": {
+"custom_points": Array[Vector2]([])
+},
+"6dcc433eaa67": {
+"custom_points": Array[Vector2]([])
+},
+"6e335b30f89b": {
+"custom_points": Array[Vector2]([])
+},
+"6f0d8e4f6a8e": {
+"custom_points": Array[Vector2]([])
+},
+"7110da9a435c": {
+"custom_points": Array[Vector2]([])
+},
+"72ec11f2f6b1": {
+"custom_points": Array[Vector2]([])
+},
+"73ed00e7cf8d": {
+"custom_points": Array[Vector2]([])
+},
+"750880e56377": {
+"custom_points": Array[Vector2]([])
+},
+"7640ae58bb5d": {
+"custom_points": Array[Vector2]([])
+},
+"7676d64e1807": {
+"custom_points": Array[Vector2]([])
+},
+"76792677c494": {
+"custom_points": Array[Vector2]([])
+},
+"77823de3c25f": {
+"custom_points": Array[Vector2]([])
+},
+"77be7b2235b7": {
+"custom_points": Array[Vector2]([])
+},
+"79629520d6cf": {
+"custom_points": Array[Vector2]([])
+},
+"7f375ad1eb9b": {
+"custom_points": Array[Vector2]([])
+},
+"80d4e8f60a81": {
+"custom_points": Array[Vector2]([])
+},
+"811dc3a6b134": {
+"custom_points": Array[Vector2]([])
+},
+"8276d156aa5a": {
+"custom_points": Array[Vector2]([])
+},
+"834fc83f1434": {
+"custom_points": Array[Vector2]([])
+},
+"85276521a4a2": {
+"custom_points": Array[Vector2]([])
+},
+"85c052356527": {
+"custom_points": Array[Vector2]([])
+},
+"87dd1a05704a": {
+"custom_points": Array[Vector2]([])
+},
+"887915505978": {
+"custom_points": Array[Vector2]([])
+},
+"8a17a63c7421": {
+"custom_points": Array[Vector2]([])
+},
+"8b675699c5a7": {
+"custom_points": Array[Vector2]([])
+},
+"8d51b5bb915a": {
+"custom_points": Array[Vector2]([])
+},
+"8d641137fac9": {
+"custom_points": Array[Vector2]([])
+},
+"9121ec42bf9b": {
+"custom_points": Array[Vector2]([])
+},
+"960805d15acc": {
+"custom_points": Array[Vector2]([])
+},
+"96166d668773": {
+"custom_points": Array[Vector2]([])
+},
+"96a4e54770fd": {
+"custom_points": Array[Vector2]([])
+},
+"96eeab47f3cb": {
+"custom_points": Array[Vector2]([])
+},
+"97a123cb528e": {
+"custom_points": Array[Vector2]([])
+},
+"9a26c51b8512": {
+"custom_points": Array[Vector2]([])
+},
+"9b3360719075": {
+"custom_points": Array[Vector2]([])
+},
+"9ccfba6109ab": {
+"custom_points": Array[Vector2]([])
+},
+"9e0bc40f0559": {
+"custom_points": Array[Vector2]([])
+},
+"9e7a7355ad24": {
+"custom_points": Array[Vector2]([])
+},
+"9ffd3452abaf": {
+"custom_points": Array[Vector2]([])
+},
+"a1b9f2f67867": {
+"custom_points": Array[Vector2]([])
+},
+"a3c77a72cdf3": {
+"custom_points": Array[Vector2]([])
+},
+"a68a6135ac06": {
+"custom_points": Array[Vector2]([])
+},
+"ab40dbf16e0f": {
+"custom_points": Array[Vector2]([])
+},
+"aea31342a016": {
+"custom_points": Array[Vector2]([])
+},
+"aee0367f4a68": {
+"custom_points": Array[Vector2]([])
+},
+"b07619240b9c": {
+"custom_points": Array[Vector2]([])
+},
+"b2dfdb709199": {
+"custom_points": Array[Vector2]([])
+},
+"b328b4acf058": {
+"custom_points": Array[Vector2]([])
+},
+"b4a3a56e6476": {
+"custom_points": Array[Vector2]([])
+},
+"b73de6f647c2": {
+"custom_points": Array[Vector2]([])
+},
+"bb0466bf12bd": {
+"custom_points": Array[Vector2]([])
+},
+"bdb5398467ae": {
+"custom_points": Array[Vector2]([])
+},
+"bedf2b3ac010": {
+"custom_points": Array[Vector2]([])
+},
+"bf6d7b512e96": {
+"custom_points": Array[Vector2]([])
+},
+"c4846fae2bf1": {
+"custom_points": Array[Vector2]([])
+},
+"c6b2eb3afc42": {
+"custom_points": Array[Vector2]([])
+},
+"c93ef1b1df6b": {
+"custom_points": Array[Vector2]([])
+},
+"c9b1bac2731c": {
+"custom_points": Array[Vector2]([])
+},
+"cf390355fb9a": {
+"custom_points": Array[Vector2]([])
+},
+"d22527258af1": {
+"custom_points": Array[Vector2]([])
+},
+"d3f2d19bf0a6": {
+"custom_points": Array[Vector2]([])
+},
+"d59803112e61": {
+"custom_points": Array[Vector2]([])
+},
+"d60faa3a40ce": {
+"custom_points": Array[Vector2]([])
+},
+"d663e8e15af7": {
+"custom_points": Array[Vector2]([])
+},
+"d67cec18d11e": {
+"custom_points": Array[Vector2]([])
+},
+"d86b4c51e3e0": {
+"custom_points": Array[Vector2]([])
+},
+"db25928ef185": {
+"custom_points": Array[Vector2]([])
+},
+"dbbcb837ad24": {
+"custom_points": Array[Vector2]([])
+},
+"dbc7ebe5a001": {
+"custom_points": Array[Vector2]([])
+},
+"dc5fd4912e5b": {
+"custom_points": Array[Vector2]([])
+},
+"dedda5d9d993": {
+"custom_points": Array[Vector2]([])
+},
+"dfaa6c793c1a": {
+"custom_points": Array[Vector2]([])
+},
+"dfcdb1d8305d": {
+"custom_points": Array[Vector2]([])
+},
+"e0a38ceec7ac": {
+"custom_points": Array[Vector2]([])
+},
+"e169f158a310": {
+"custom_points": Array[Vector2]([])
+},
+"e3f95f08b088": {
+"custom_points": Array[Vector2]([])
+},
+"e7f96d50a4ac": {
+"custom_points": Array[Vector2]([])
+},
+"e92fab60b487": {
+"custom_points": Array[Vector2]([])
+},
+"e942d9f28d82": {
+"custom_points": Array[Vector2]([])
+},
+"eaec2a51a1ca": {
+"custom_points": Array[Vector2]([])
+},
+"ecd15430db7e": {
+"custom_points": Array[Vector2]([])
+},
+"ef093a30fe4b": {
+"custom_points": Array[Vector2]([])
+},
+"f207e8e9b7ff": {
+"custom_points": Array[Vector2]([])
+},
+"f2c85fc8d363": {
+"custom_points": Array[Vector2]([])
+},
+"f75a6faaa094": {
+"custom_points": Array[Vector2]([])
+},
+"fa3a965bea63": {
+"custom_points": Array[Vector2]([])
+},
+"faf892bd137d": {
+"custom_points": Array[Vector2]([])
+},
+"fb286b8056e8": {
+"custom_points": Array[Vector2]([])
+},
+"fb6429b9b4d3": {
+"custom_points": Array[Vector2]([])
+},
+"fbbbe4e19001": {
+"custom_points": Array[Vector2]([])
+},
+"fef0505393fc": {
+"custom_points": Array[Vector2]([])
+}
+}
+rect=Rect2(4000, 7700, 3950, 2200)
+icon="blueprint"
+version=3
